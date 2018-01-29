@@ -1,3 +1,14 @@
+   <p><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true">
+  <img src="https://github.com/gofun72/telove/blob/master/img/soft/1.png" width="210"></a>
+
+<a href="https://github.com/gofun72/telove/blob/master/soft/wujieliulan_android_4.1_20171123.zip?raw=true">
+<img src="https://github.com/gofun72/telove/blob/master/img/soft/2.png" width="210"></a>
+
+<a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true">
+<img src="https://github.com/gofun72/telove/blob/master/img/soft/3.png" width="210"></a></p>
+
+ 
+ 
  <table border="0" width="45%" align="center" bordercolor="gold">
   
 <tr>
