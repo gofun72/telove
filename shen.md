@@ -48,4 +48,6 @@
 
 						观赏神韵特别特别推荐这款 <a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/Green_iPPOTV.exe?raw=true" target="_blank">爱博电视桌机版</a>，平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。
 
-					</p>
+					</p></div>
+
+             </div>
