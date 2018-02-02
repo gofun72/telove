@@ -29,8 +29,8 @@
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E6%84%9B%E5%8D%9A%E4%BD%BF%E7%94%A81.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 </tr>
 <tr>
-	<td><img src="../master/GCC/img/intdtv.jpg" align="middle" width="240" alt="intdtv"></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/iNTD_TVsp1.apk?raw=true"><img src="../master/GCC/img/intdtv.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
+	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/iNTD%20TV.jpg" align="middle" width="240" alt="intdtv"></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/iNTD%20TV-sp1.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 	<td></td>
 </tr>
 </table>
