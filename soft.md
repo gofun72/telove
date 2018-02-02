@@ -8,13 +8,13 @@
 
 <table  width="800">
 <tr>
-	<td width="240"><img src="https://git.io/vNbDf" height="60" align="middle"></td>
-	<td width="320"><center><img src="../master/GCC/img/android.jpg" align="middle"></center></td>
-	<td width="320"><center><img src="../master/GCC/img/desktop.jpg" align="middle"></center></td>
+	<td width="240"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E7%AA%81%E7%A0%B4%E7%B6%B2%E8%B7%AF%E5%B0%81%E9%8E%96.jpg" height="60" align="middle"></td>
+	<td width="320"><center><img src=" " align="middle"></center></td>
+	<td width="320"><center><img src="" align="middle"></center></td>
 </tr>
 <tr>
-	<td><img src="../master/GCC/img/freegate.jpg" align="middle" width="240" alt="自由门"></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_android_3.2.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
+	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1F-1.jpg" align="middle" width="240" alt="自由门"></td>
+	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1%E5%AE%89%E5%8D%93%20-1.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="../master/GCC/img/freegateDesktop.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
