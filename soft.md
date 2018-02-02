@@ -3,16 +3,15 @@
 		<td>
 		<img src="https://github.com/gofun72/telove/blob/master/img/soft/2018-02-01_%E9%99%BD%E5%85%89%E5%AD%97%20v.jpg" width="880">	
 		</td>	
-		<td></td>
-		<td></td>
+		
 	</tr>	
 </table>
 
 <table  width="800">
 <tr>
 	<td width="240"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E7%AA%81%E7%A0%B4%E7%B6%B2%E8%B7%AF%E5%B0%81%E9%8E%96.jpg" height="60" align="middle"></td>
-	<td width="320"><center><img src=" " align="middle"></center></td>
-	<td width="320"><center><img src="" align="middle"></center></td>
+	<td></td>
+	<td></td>
 </tr>
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1F-1.jpg" align="middle" width="240" alt="自由门"></td>
