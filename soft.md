@@ -15,7 +15,7 @@
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1F-1.jpg" align="middle" width="240" alt="自由门"></td>
 	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1%E5%AE%89%E5%8D%93%20-1.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
-	<td><a href="https://git.io/vN7Bo"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1%E5%8D%93%E6%A9%9F%20-1.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1%E5%8D%93%E6%A9%9F%20-1.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
