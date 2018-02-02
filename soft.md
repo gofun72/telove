@@ -1,14 +1,14 @@
 <table align="center" >
 	<tr>
 		<td>
-		<img src="../master/GCC/img/fq.jpg" width="880">	
+		<img src="https://github.com/gofun72/telove/blob/master/img/soft/2018-02-01_%E9%99%BD%E5%85%89%E5%AD%97%20v.jpg" width="880">	
 		</td>	
 	</tr>	
 </table>
 
 <table  width="800">
 <tr>
-	<td width="240"><img src="../master/GCC/img/anticensor.jpg" height="60" align="middle"></td>
+	<td width="240"><img src="https://git.io/vNbDf" height="60" align="middle"></td>
 	<td width="320"><center><img src="../master/GCC/img/android.jpg" align="middle"></center></td>
 	<td width="320"><center><img src="../master/GCC/img/desktop.jpg" align="middle"></center></td>
 </tr>
