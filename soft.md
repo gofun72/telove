@@ -3,6 +3,8 @@
 		<td>
 		<img src="https://github.com/gofun72/telove/blob/master/img/soft/2018-02-01_%E9%99%BD%E5%85%89%E5%AD%97%20v.jpg" width="880">	
 		</td>	
+		<td></td>
+		<td></td>
 	</tr>	
 </table>
 
