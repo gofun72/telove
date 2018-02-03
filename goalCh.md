@@ -1,58 +1,67 @@
-<img src="https://github.com/gofun72/telove/blob/master/img/cmGoal.jpg" style="max-width:100%;" width="875"></a>
-<h3><a href="#在九评共产党发表13周年之际九评编辑部发表新书共产主义的终极目的" aria-hidden="true" class="anchor" id="user-content-在九评共产党发表13周年之际九评编辑部发表新书共产主义的终极目的"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。</h3>
-<hr>
-<h3><a href="#本书分上下两部" aria-hidden="true" class="anchor" id="user-content-本书分上下两部"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>本书分上下两部：</h3>
-<h3><a href="#上部共产主义的终极目的中国篇" aria-hidden="true" class="anchor" id="user-content-上部共产主义的终极目的中国篇"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>上部《共产主义的终极目的（中国篇）》</h3>
-<h3><a href="#下部共产主义的终极目的世界篇" aria-hidden="true" class="anchor" id="user-content-下部共产主义的终极目的世界篇"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>下部《共产主义的终极目的（世界篇）》</h3>
-<h3><a href="#大纪元将首先发表上部中国篇下部将在不久以后推出敬请关注" aria-hidden="true" class="anchor" id="user-content-大纪元将首先发表上部中国篇下部将在不久以后推出敬请关注"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>大纪元将首先发表上部《中国篇》，下部将在不久以后推出，敬请关注。</h3>
-<hr>
-<h2><a href="#共产主义来自何处" aria-hidden="true" class="anchor" id="user-content-共产主义来自何处"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>共产主义来自何处？</h2>
-<h2><a href="#为什么宇宙中会冒出个共产党" aria-hidden="true" class="anchor" id="user-content-为什么宇宙中会冒出个共产党"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>为什么宇宙中会冒出个共产党？</h2>
-<h2><a href="#共产主义的本质究竟是什么" aria-hidden="true" class="anchor" id="user-content-共产主义的本质究竟是什么"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>共产主义的本质究竟是什么？</h2>
-<h2><a href="#结局又会怎样" aria-hidden="true" class="anchor" id="user-content-结局又会怎样"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>结局又会怎样？</h2>
-<h3><a href="#对这些根本问题的答案人们众说纷纭现在是揭开谜底的时候了" aria-hidden="true" class="anchor" id="user-content-对这些根本问题的答案人们众说纷纭现在是揭开谜底的时候了"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。</h3>
-<hr>
-<h3><a href="#以下是新唐人电视台根据大纪元原文所录制的视频并且镶崁在epub格式电子书里面只要下载电子书可以很方便地阅读聆听或观赏" aria-hidden="true" class="anchor" id="user-content-以下是新唐人电视台根据大纪元原文所录制的视频并且镶崁在epub格式电子书里面只要下载电子书可以很方便地阅读聆听或观赏"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。</h3>
-<h3><a href="#阅读电子书如果是安卓系统您需要安装app建议您使用-reasily" aria-hidden="true" class="anchor" id="user-content-阅读电子书如果是安卓系统您需要安装app建议您使用-reasily"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&amp;hl=zh_cn" rel="nofollow">reasily</a></h3>
-<h3><a href="#如果是苹果的装置本身自带的-ibook就能开启-" aria-hidden="true" class="anchor" id="user-content-如果是苹果的装置本身自带的-ibook就能开启-"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>如果是苹果的装置，本身自带的 ibook就能开启 ，</h3>
-<h3><a href="#如果是桌机假如作业系统是-win10-那么自带的-edge-可以开启" aria-hidden="true" class="anchor" id="user-content-如果是桌机假如作业系统是-win10-那么自带的-edge-可以开启"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>如果是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启，</h3>
-<h3><a href="#否则要安装-chrome-的-插件-readium才能阅读" aria-hidden="true" class="anchor" id="user-content-否则要安装-chrome-的-插件-readium才能阅读"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>否则要安装 chrome 的 插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl" rel="nofollow">readium</a>,才能阅读</h3>
-<h3><a href="#至于firefox-插件-建议使用-epubreader" aria-hidden="true" class="anchor" id="user-content-至于firefox-插件-建议使用-epubreader"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" rel="nofollow">epubReader</a></h3>
-<hr>
-<h2><a href="#共产主义的终极目的有12个视频目前出到8以下是epub电子书的下载点" aria-hidden="true" class="anchor" id="user-content-共产主义的终极目的有12个视频目前出到8以下是epub电子书的下载点"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>《共产主义的终极目的》有12个视频，目前出到8。以下是epub电子书的下载点</h2>
-<h3><a href="#您也可以先下载-希望之声-的-mp3-版本的-epub---或是-大纪元的-文本-epub-电子书" aria-hidden="true" class="anchor" id="user-content-您也可以先下载-希望之声-的-mp3-版本的-epub---或是-大纪元的-文本-epub-电子书"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>您也可以先下载 <a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true">希望之声 的 mp3 版本的 epub </a> , 或是 <a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">大纪元的 文本 epub 电子书</a></h3>
-<hr>
+<table>
+<tr>
+	<td colspan=3>
+		
 
+<img src="https://github.com/goodabc/GCC/blob/master/GCC/img/cmGoal.jpg" width="875">
+		
+### 在《九评共产党》发表13周年之际，《九评》编辑部发表新书《共产主义的终极目的》。
+******
+### 本书分上下两部：
+### 上部《共产主义的终极目的（中国篇）》
+### 下部《共产主义的终极目的（世界篇）》
+### 大纪元将首先发表上部《中国篇》，下部将在不久以后推出，敬请关注。
 
+******
+
+## 共产主义来自何处？
+## 为什么宇宙中会冒出个共产党？
+## 共产主义的本质究竟是什么？
+## 结局又会怎样？
+### 对这些根本问题的答案，人们众说纷纭，现在是揭开谜底的时候了。
+******
+### 以下是新唐人电视台根据大纪元原文所录制的视频，并且镶崁在epub格式电子书里面，只要下载电子书，可以很方便地阅读、聆听或观赏。
+
+### 阅读电子书，如果是安卓系统，您需要安装APP，建议您使用 <a href="https://play.google.com/store/apps/details?id=com.gmail.jxlab.app.reasily&hl=zh_cn" target="_blank">reasily</a>
+### 如果是苹果的装置，本身自带的 ibook就能开启 ， 
+### 如果是桌机，假如作业系统是 win10， 那么自带的 Edge 可以开启， 
+### 否则要安装 chrome 的 插件 <a href="https://chrome.google.com/webstore/detail/readium/fepbnnnkkadjhjahcafoaglimekefifl"  target="_blank">readium</a>,才能阅读
+### 至于firefox 插件， 建议使用 <a href="https://addons.mozilla.org/zh-CN/firefox/addon/epubreader/" target="_blank">epubReader</a>
+******
+## 《共产主义的终极目的》有12个视频，目前出到8。以下是epub电子书的下载点
+### 您也可以先下载 [希望之声 的 mp3 版本的 epub ](https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/ultiGoalCmCN8k.epub?raw=true) , 或是 [大纪元的 文本 epub 电子书](https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true)
+ 
+******
 </td>
 </tr>
 <tr>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh1.epub?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/coal123.jpg" alt="" style="max-width:100%;" width="265" border="0"></a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh2.epub?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/coal123.jpg" alt="" style="max-width:100%;" width="265" border="0"></a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh3.epub?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/coal123.jpg" alt="" style="max-width:100%;" width="265" border="0"></a></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh1.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh2.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh3.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh1.epub?raw=true">【共产主义的终极目的】（1）</a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh2.epub?raw=true">【共产主义的终极目的】（2）</a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh3.epub?raw=true">【共产主义的终极目的】（3）</a></td>
+	<td><center><a href="../master/GCC/ebook/epub/goalCh1.epub?raw=true">【共产主义的终极目的】（1）</a></center></td>
+	<td><center><a href="../master/GCC/ebook/epub/goalCh2.epub?raw=true">【共产主义的终极目的】（2）</a></center></td>
+	<td><center><a href="../master/GCC/ebook/epub/goalCh3.epub?raw=true">【共产主义的终极目的】（3）</a></center></td>
 </tr>
 <tr>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh4.epub?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/coal123.jpg" alt="" style="max-width:100%;" width="265" border="0"></a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh5.epub?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/coal123.jpg" alt="" style="max-width:100%;" width="265" border="0"></a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh6.epub?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/coal123.jpg" alt="" style="max-width:100%;" width="265" border="0"></a></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh4.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh5.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh6.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
 </tr>
 <tr>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh4.epub?raw=true">【共产主义的终极目的】（4）</a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh5.epub?raw=true">【共产主义的终极目的】（5）</a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh6.epub?raw=true">【共产主义的终极目的】（6）</a></td>
+	<td><center><a href="../master/GCC/ebook/epub/goalCh4.epub?raw=true">【共产主义的终极目的】（4）</a></center></td>
+	<td><center><a href="../master/GCC/ebook/epub/goalCh5.epub?raw=true">【共产主义的终极目的】（5）</a></center></td>
+	<td><center><a href="../master/GCC/ebook/epub/goalCh6.epub?raw=true">【共产主义的终极目的】（6）</a></center></td>
 </tr>
 <tr>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh7.epub?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/coal123.jpg" alt="" style="max-width:100%;" width="265" border="0"></a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh8.epub?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/coal123.jpg" alt="" style="max-width:100%;" width="265" border="0"></a></td>
-	<td></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh7.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="../master/GCC/ebook/epub/goalCh8.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a></td>
+	<td><!-- <a href="../master/GCC/ebook/epub/goalCh6.epub?raw=true"><img src="../master/GCC/img/p8641841a641671660-sss.jpg" width="265"  border="0" alt=""></a> --></td>
 </tr>
 <tr>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh7.epub?raw=true">【共产主义的终极目的】（7）</a></td>
-	<td><a href="/goodabc/GCC/blob/master/GCC/ebook/epub/goalCh8.epub?raw=true">【共产主义的终极目的】（8）</a></td>
-	<td>&nbsp;</td>
+	<td><center><a href="../master/GCC/ebook/epub/goalCh7.epub?raw=true">【共产主义的终极目的】（7）</a></center></td>
+	<td><center><a href="../master/GCC/ebook/epub/goalCh8.epub?raw=true">【共产主义的终极目的】（8）</a></center></td>
+	<td><center>&nbsp;</center></td>
 </tr>
+</table>
