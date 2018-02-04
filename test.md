@@ -35,4 +35,4 @@
 </tr>
 </table>
 
-<img src="../master/GCC/img/fqReadme.gif" width="880">
+<img src="https://github.com/gofun72/telove/blob/master/img/fqReadme.gif" width="880">
