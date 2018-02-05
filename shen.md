@@ -5,7 +5,7 @@
 [<div align="center"><h2>下载翻墙软件下载点及使用说明 EPUB 格式电子书</h2></div>](https://github.com/gofun72/telove/blob/master/ebook/epub/fangqian.epub?raw=true)
 
 
-【明慧网二零一七年一月二十六日】2017年中国新年期间，新唐人电视台将隆重推出“2017年新唐人电视台全球华人新年晚会——神韵晚会”。在大陆、纽约、美西、欧洲等全球五个频道播放。对海外观众，网站不播出，只限于电视收看。
+2018年中国新年期间，新唐人电视台将隆重推出“2018年新唐人电视台全球华人新年晚会——神韵晚会”。在大陆、纽约、美西、欧洲等全球五个频道播放。对海外观众，网站不播出，只限于电视收看。
 
 针对中国大陆观众，新唐人将播出“2017年新唐人电视台全球华人新年晚会”——大陆版，是最新的神韵晚会节目，但只限于中国大陆地区收看。请通过翻墙软件自由门或无界浏览观看，并请锁定这个网址：
 
@@ -50,7 +50,7 @@ http://www.minghui.org/mh/articles/2016/2/22/Mp4视频教程-绿色爱博电视i
 http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player_ax.exe（适合IE浏览器）
 http://fpdownload.macromedia.com/pub/flashplayer/latest/help/install_flash_player.exe（适合火狐浏览器-适合学 员使用）
 
-6、新唐人电视亚太台将播出2016年（去年）晚会，播出安排如下（台湾时间）：
+6、新唐人电视亚太台将播出2017年（去年）晚会，播出安排如下（台湾时间）：
 
 新唐人全球华人新年晚会
 1/27除夕 20:00
