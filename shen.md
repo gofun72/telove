@@ -93,7 +93,6 @@
 
 
 
-<a href='https://github.com/gofun72/telove/blob/master/mp4/shen/ippotvm.mp4?raw=true'>爱博教学 </a>
 
 
 
