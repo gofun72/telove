@@ -73,7 +73,7 @@
 </tr>
 <tr>
 	<td>通过翻墙软件自由门和无界</td>
-	<td>翻墙软件下载教学</td>
+	<td>[翻墙软件下载教学](https://github.com/gofun72/telove/blob/master/ff.md)</td>
 </tr>
 <tr>
 	<td>推荐使用爱博电视新唐人中国频道</td>
