@@ -7,7 +7,7 @@
 
 <br />
 
-<table>
+<table border="1" cellspacing="10" cellpadding="3">
 <tr>
 	<td>日期</td>
 	<td>时间</td>
