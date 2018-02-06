@@ -77,7 +77,8 @@
 </tr>
 <tr>
 	<td>推荐使用爱博电视新唐人中国频道</td>
-	<td>爱博教学</td>
+	<td><a href='https://github.com/gofun72/telove/blob/master/mp4/shen/ippotvm.mp4?raw=true'>爱博教学 </a>
+</td>
 </tr>
 <tr>
 	<td>点击下载翻墙软件集成包</td>
@@ -92,7 +93,7 @@
 
 
 
-<a href='https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true'>INTD TV </a>
+<a href='https://github.com/gofun72/telove/blob/master/mp4/shen/ippotvm.mp4?raw=true'>爱博教学 </a>
 
 
 
