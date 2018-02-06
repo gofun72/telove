@@ -73,7 +73,7 @@
 </tr>
 <tr>
 	<td>通过翻墙软件自由门和无界</td>
-	<td>[翻墙软件下载教学](https://github.com/gofun72/telove/blob/master/ff.md)</td>
+	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
 </tr>
 <tr>
 	<td>推荐使用爱博电视新唐人中国频道</td>
@@ -81,7 +81,7 @@
 </tr>
 <tr>
 	<td>点击下载翻墙软件集成包</td>
-	<td></td>
+	<td><a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
 </tr>
 </table>
 
@@ -92,8 +92,7 @@
 
 
 
-
-
+<a href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a>
 
 
 
