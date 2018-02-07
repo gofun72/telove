@@ -1,18 +1,16 @@
+
+
 <table align="center" >
 	<tr>
 		<td>
 		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="880">	
 		</td>	
 		
-	</tr>	
+</tr>	
 </table>
 
 <table  width="800">
-<tr>
-	<td width="240"><img src=""></td>
-	<td></td>
-	<td></td>
-</tr>
+
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门"></td>
 	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
