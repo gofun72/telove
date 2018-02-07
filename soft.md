@@ -3,7 +3,7 @@
 <table align="center" >
 	<tr>
 		<td>
-		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="880">	
+		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="800">	
 		</td>	
 <br>
 <br>
