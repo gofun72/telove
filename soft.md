@@ -5,6 +5,10 @@
 		<td>
 		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="880">	
 		</td>	
+	<br>
+<br>
+	
+		
 		
 </tr>	
 </table>
@@ -35,8 +39,6 @@
 </table>
 
 
-<br>
-<br>
 <br>
 
 
