@@ -1,7 +1,7 @@
 <table align="center" >
 	<tr>
 		<td>
-		<img src="https://github.com/gofun72/telove/blob/master/img/soft/2018-02-01_%E9%99%BD%E5%85%89%E5%AD%97%20v.jpg" width="880">	
+		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="880">	
 		</td>	
 		
 	</tr>	
@@ -9,14 +9,14 @@
 
 <table  width="800">
 <tr>
-	<td width="240"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E7%AA%81%E7%A0%B4%E7%B6%B2%E8%B7%AF%E5%B0%81%E9%8E%96.jpg" height="60" align="middle"></td>
+	<td width="240"><img src=""></td>
 	<td></td>
 	<td></td>
 </tr>
 <tr>
-	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1F-1.jpg" align="middle" width="240" alt="自由门"></td>
-	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1%E5%AE%89%E5%8D%93%20-1.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/%E8%87%AA%E7%94%B1%E5%8D%93%E6%A9%9F%20-1.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
+	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门"></td>
+	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
