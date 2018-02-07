@@ -1,4 +1,4 @@
-<div align="center"><h2>《九评》编辑部：《共产主义的终极目的》序言</h2>
+<div align="center"><h2>《九评》编辑部：《共产主义的终极目的》序言</h2> </div>
 
 
 <img src="https://github.com/gofun72/telove/blob/master/img/1.jpg" style="max-width:100%;" width="880"><p>
