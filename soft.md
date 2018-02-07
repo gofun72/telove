@@ -35,9 +35,9 @@
 </table>
 
 
-
-
-
+<br>
+<br>
+<br>
 
 
 
@@ -46,9 +46,9 @@
 <table border="0" width="60%" align="center" bordercolor="gold">
   
 <tr>
-	<td></td>
-	<td>安卓版</td>
-	<td>桌机版</td>
+	<td width=300;></td>
+	<td width=300;>安卓版</td>
+	<td width=300;>桌机版</td>
 </tr>
 
 <tr>
