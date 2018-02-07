@@ -1,7 +1,7 @@
 <table align="center" >
 	<tr>
 		<td>
-		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="800">	
+		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="890">	
 		</td>	
 <br>
 <br>
