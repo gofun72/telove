@@ -9,9 +9,10 @@
 
 <table border="1" cellspacing="10" cellpadding="3">
 <tr>
-	<td>日期</td>
-	<td>时间</td>
-	<td>备注</td>
+	<td width=200;>日期 </td>
+	<td width=200;>时间</td>
+	<td width=490;>备注</td>
+
 </tr>
 <tr>
 	<td>02/15 除夕</td>
@@ -41,9 +42,9 @@
 						
 	
 <tr>
-	<td>日期</td>
-	<td>时间</td>
-	<td>备注</td>
+	<td width=200;>日期</td>
+	<td width=200;>时间</td>
+	<td width=490;>备注</td>
 </tr>
 <tr>
 	<td>02/16 初一</td>
@@ -63,8 +64,8 @@
 
 <table>
 <tr>
-	<td>收视方法</td>
-	<td>备注</td>
+	<td width=590;>收视方法</td>
+	<td width=300;>备注</td>
 </tr>
 <tr>
 	<td>大陆观众可通过韩星五号的新唐人中国频道收看</td>
