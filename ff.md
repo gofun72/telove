@@ -61,7 +61,7 @@
 
 <tr>
 	<td>无界</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/wujieliulan_android_4.1_20171123.zip?raw=true">4.1</a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.2.apk?raw=true">4.2</a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u1704.zip?raw=true">17.04</a></a></td>
 	
 </tr>
