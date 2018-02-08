@@ -31,7 +31,7 @@
 </tr>
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/intd.jpg" align="middle" width="240" alt="intdtv"></td>
-	<td></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TV.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/intd.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/intds.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 	
 </tr>
