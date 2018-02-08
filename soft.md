@@ -272,7 +272,7 @@
 
   <p class="p1">无界浏览的图标是围着地球航行的帆船（见图一）。文件名可能会改变，用户也可以从安全和方便的方面考虑自己取名。</p>
 
-  <img alt="imgd23a3fd7097a" src="../master/GCC/img/wujie.png"/>
+  <img alt="imgd23a3fd7097a" src="https://github.com/gofun72/telove/blob/master/img/soft/soft/wujie.png"/>
 
   <p></p>
 
@@ -284,7 +284,7 @@
 
   <p class="p1">双击无界浏览 可执行文件，无界浏览开始运行，首先打开一个使用窗口是无界浏览版用户界面，显示无界浏览的功能键和运行状况（见图二)，在微软视窗屏幕下面的任务栏显示一个无界浏览.0的图标（见图三），这就说明无界浏览开始运行，一切通过微软浏览器（IE）的网上浏览都是在无界浏览的超高加密保护下。用户在使用无界浏览时，不能关闭无界浏览使用窗口，可以将窗口最小化。这时在微软视窗屏幕右下角的任务盘会显示无界浏览图标（图四），表示无界浏览仍在运行之中。如果无界浏览在启动时打开的窗口是代理设置（图九），请参照下面8.代理设置。无界浏览接着打开一个微软浏览器（IE） 显示无界网络主页，如果无界浏览在启动时不打开无界网络主页，请参照7.高级设置中的选项。</p>
 
-  <img alt="u2" src="../master/GCC/img/u2.jpg" width="90%"/>
+  <img alt="u2" src="https://github.com/gofun72/telove/blob/master/img/soft/soft/u2.jpg" width="90%"/>
 
   <div class="imgTitle">
     图二：无界浏览版用户界面
@@ -292,7 +292,7 @@
 
   <p></p>
 
-  <img alt="imgcdde955dc8a7" src="../master/GCC/img/imgcdde955dc8a7.jpg" width="88%"/>
+  <img alt="imgcdde955dc8a7" src="https://github.com/gofun72/telove/blob/master/img/soft/soft/imgcdde955dc8a7.jpg" width="88%"/>
 
   <div class="imgTitle">
     图三：任务栏显示无界浏览.0的图标
@@ -300,7 +300,7 @@
 
   <p></p>
 
-  <img alt="img9a47c3262438" src="../master/GCC/img/img9a47c3262438.jpg"/>
+  <img alt="img9a47c3262438" src="https://github.com/gofun72/telove/blob/master/img/soft/soft/img9a47c3262438.jpg"/>
 
   <div class="imgTitle">
     图四：任务栏显示无界浏览.0的图标
@@ -316,7 +316,7 @@
 
   <p class="p1">启动无界浏览后，程序会打开一个新的浏览器显示无界网络主页，用户可在无界网络主页（图五）上浏览任意网站，或再打开一个新的浏览器浏览。如果关闭无界浏览版的使用窗口，就会退出无界浏览程序。</p>
 
-  <img alt="u5" src="../master/GCC/img/u5.jpg" width="90%"/>
+  <img alt="u5" src="https://github.com/gofun72/telove/blob/master/img/soft/soft/u5.jpg" width="90%"/>
 
   <div class="imgTitle">
     图五：无界网络主页
@@ -328,7 +328,7 @@
 
   <p class="p1">浏览完毕，点击图二窗口上的"结束"按钮，就退出无界浏览程序。原先打开的浏览器）就不在无界浏览的保护之下，所以为安全起见，无界浏览在退出时会弹出一个"退出警告"，（如图六）。无界浏览开始20秒倒数计时，让用户以下选择：</p>
 
-  <img alt="u6" src="../master/GCC/img/u6.jpg"/>
+  <img alt="u6" src="https://github.com/gofun72/telove/blob/master/img/soft/soft/u6.jpg"/>
 
   <div class="imgTitle">
     图六：退出警告
@@ -354,7 +354,7 @@
 
   <h3 id="sigil_toc_id_26">7. 高级设置</h3>
 
-  <img alt="img335fd8fe5c5d" src="../master/GCC/img/img335fd8fe5c5d.jpg"/>
+  <img alt="img335fd8fe5c5d" src="https://github.com/gofun72/telove/blob/master/img/soft/soft/img335fd8fe5c5d.jpg"/>
 
   <div class="imgTitle">
     图七：高级设置
@@ -376,7 +376,7 @@
 
   <h3 id="sigil_toc_id_27">8. 代理设置</h3>
 
-  <img alt="settings" src="../master/GCC/img/settings.jpg"/>
+  <img alt="settings" src="https://github.com/gofun72/telove/blob/master/img/soft/soft/settings.jpg"/>
 
   <div class="imgTitle">
     图八：代理设置窗口
@@ -591,4 +591,3 @@
   </div>
 </body>
 </html>
-
