@@ -1,5 +1,3 @@
-
-
 <table align="center" >
 	<tr>
 		<td>
@@ -33,8 +31,9 @@
 </tr>
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/intd.jpg" align="middle" width="240" alt="intdtv"></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TV.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/intd.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/intds.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
-	<td></td>
+	
 </tr>
 </table>
 
@@ -56,7 +55,7 @@
 <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_android_3.2.zip?raw=true">3.2版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true">7.6版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true">7.64版</a></a></td>
 	
 </tr>
 
@@ -82,17 +81,3 @@
 </tr>
 
 </table>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
