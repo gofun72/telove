@@ -7,6 +7,8 @@
 	
 <img src="https://github.com/gofun72/telove/blob/master/img/soft/free-2.png" width="890">
 
+<hr>
+
 <table align="center" >
 	<tr>
 		<td>
