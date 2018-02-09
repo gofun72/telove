@@ -4,7 +4,9 @@
  
  <div align="center">
    <h1>突破封锁看世界 翻墙请先下软件</h1>
-<img src=" https://github.com/gofun72/telove/blob/master/img/soft/free-2.png" width="890">
+	
+<img src="https://github.com/gofun72/telove/blob/master/img/soft/free-2.png" width="890">
+
 <table align="center" >
 	<tr>
 		<td>
