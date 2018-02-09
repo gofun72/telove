@@ -1,4 +1,8 @@
-  <div align="center">
+
+ <img src=" https://github.com/gofun72/telove/blob/master/img/soft/free-2.png" width="890">
+ 
+ 
+ <div align="center">
    <h1>突破封锁看世界 翻墙请先下软件</h1>
 
 <table align="center" >
