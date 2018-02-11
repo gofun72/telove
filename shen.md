@@ -48,7 +48,39 @@
 <br />
 
 
+<br />
 
+<table border="1" cellspacing="10" cellpadding="3">
+<tr>
+	<td width=200;>日期 </td>
+	<td width=200;>时间</td>
+	<td width=490;>备注</td>
+
+</tr>
+<tr>
+	<td>02/15 除夕</td>
+	<td>20:00-23:00</td>
+	<td>神韵晚会 首播 180分钟</td>
+</tr>
+<tr>
+	<td>02/15 除夕</td>
+	<td>23:00-02:00</td>
+	<td>神韵晚会 重播 180分钟</td>
+</tr>
+<tr>
+	<td>02/16 初一</td>
+	<td>09:00-12:00</td>
+	<td>神韵晚会 重播 180分钟</td>
+</tr>
+<tr>
+	<td>02/16 初一</td>
+	<td>13:00-16:00</td>
+	<td>神韵晚会 重播 180分钟</td>
+</tr>
+</table>
+<br />
+
+<table>
 
 
 
