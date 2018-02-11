@@ -108,6 +108,16 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td>一位律师的肺腑直言</td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/lawyer.epub?raw=true">圖文epub</a></td>
 </tr>
+<tr>
+<td>【明慧周报大陆版】（第675期）</td>
+<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MHZB_675.epub?raw=true">圖文epub</a></td>
+</tr>
+<td>【明慧周报大陆版】（第674期）</td>
+<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MHZB_674.epub?raw=true">圖文epub</a></td>
+</tr>
+<td>【明慧周报大陆版】（第673期）</td>
+<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MHZB_673.epub?raw=true">圖文epub</a></td>
+</tr>
 </table>
  <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
  </body>
