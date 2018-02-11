@@ -1,6 +1,6 @@
 
 
-<div align="center"><img src="https://github.com/goodabc/GCC/blob/master/GCC/img/sy2018.jpg" width="880"><p></p><h1>新唐人新年期间播出2018全球华人新年晚会</h1></div>
+<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/shen/sy2018.jpg" width="880"><p></p><h1>新唐人新年期间播出2018全球华人新年晚会</h1></div>
 
 <h3>【新唐人北京时间2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 </h3><p></p>
