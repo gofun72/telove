@@ -4,7 +4,7 @@
 <table>
 <tr style="background:lightyellow;text-align:center">
 	<td width="450">Frequency(频率)</td>
-	<td width="440">12618.35 MHz   </td>
+	<td width="440">12618.35 MHz(如果接收机不能输入小数，则取整数) </td>
 </tr>
 <tr>
 	<td>Pol(极化)</td>
