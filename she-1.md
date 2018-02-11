@@ -1,5 +1,5 @@
 <table>
-<tr>
+<tr style="background:lightyellow;text-align:center">
 	<td>Frequency(频率)</td>
 	<td>12618.35 MHz   </td>
 </tr>
