@@ -75,3 +75,33 @@
 				</tr>
 </table>
 <p></p>
+
+<table>
+<tr>
+    <td width=590;>收视方法</td>
+    <td width=300;>备注</td>
+</tr>
+<tr>
+    <td>大陆观众可通过韩星五号的新唐人中国频道收看</td>
+    <td>播出参数</td>
+</tr>
+<tr>
+    <td>通过机顶盒的INTD TV 上的新唐人中国频道</td>
+    <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true'>INTD TV </a></td>
+</tr>
+<tr>
+    <td>通过翻墙软件自由门和无界</td>
+    <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
+</tr>
+<tr>
+    <td>推荐使用爱博电视新唐人中国频道</td>
+    <td><a href="https://github.com/gofun72/telove/blob/master/mp4/shen/ippotvm.mp4?raw=true">爱博教学</a>
+
+
+</td>
+</tr>
+<tr>
+    <td>点击下载翻墙软件集成包</td>
+    <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
+</tr>
+</table>
