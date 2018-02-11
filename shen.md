@@ -79,7 +79,7 @@
 </tr>
 
 
-</table>
+<table border="1" cellspacing="10" cellpadding="3">
 <br />
 
 <table>
