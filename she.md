@@ -75,7 +75,7 @@
 				</tr>
 </table>
 <p></p>
-<>HR>
+<hr>
 <table>
 <tr>
     <td width=590;>收视方法</td>
