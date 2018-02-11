@@ -83,8 +83,9 @@
 </tr>
 <tr>
     <td>大陆观众可通过韩星五号的新唐人中国频道收看</td>
-    <td>播出参数</td>
+    <td>播出参数<a target="_blank" href='https://github.com/gofun72/telove/blob/master/she-1.md'>INTD TV </a></td>
 </tr>
+	
 <tr>
     <td>通过机顶盒的INTD TV 上的新唐人中国频道</td>
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1.apk?raw=true'>INTD TV </a></td>
