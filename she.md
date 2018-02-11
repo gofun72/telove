@@ -52,6 +52,9 @@
 				</tr>
 </table><p></p>
 <div align="center"><h1>神韵交响乐团</h1></div><p></p>
+<div align="center"><h1>新年晚会</h1></div><p></p>
+<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/shen/she2.jpg" width="400">
+
 <table width = 90%>
 				<tr style="background:lightyellow;text-align:center">
 					<td width="220">日期</td>
