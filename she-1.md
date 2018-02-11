@@ -1,7 +1,7 @@
 <table>
 <tr style="background:lightyellow;text-align:center">
-	<td>Frequency(频率)</td>
-	<td>12618.35 MHz   </td>
+	<td width="220">Frequency(频率)</td>
+	<td width="220">12618.35 MHz   </td>
 </tr>
 <tr>
 	<td>Pol(极化)</td>
