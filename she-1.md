@@ -1,3 +1,6 @@
+<div align="center"><h1>韩星5号的播出参数</h1></div><p></p>
+
+
 <table>
 <tr style="background:lightyellow;text-align:center">
 	<td width="450">Frequency(频率)</td>
