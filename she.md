@@ -11,8 +11,8 @@
 
 <div align="center"><h1>请大家告诉大家，错过可能得等到元宵节回放！</h1></div>
 
-<h3>這場晚會是最新的神韻晚會節目，但只限於中國大陸地區收看。 請通過翻牆軟件自由門、無界瀏覽或iNTD TV看觀
-，並請鎖定中國頻道這個網址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
+<h3>这场晚会是最新的神韵晚会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观
+，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
 <div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播出时间如下：</a></h1></div>
 <div align="center"><h1>新年晚会</h1></div><p></p>
