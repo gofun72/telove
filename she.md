@@ -109,3 +109,4 @@
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
 </tr>
 </table>
+  <h2 a align="center"><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true"> ★★新年期间播出时间电子书下載(ePub版)★★</h2>
