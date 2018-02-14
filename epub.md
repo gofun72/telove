@@ -68,57 +68,62 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td  width="280"></td>
 	<td  width="600">說明</td>
 </tr>
-<tr>
+ <tr>
+	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true">圖文、視頻epub</a></td>
+</tr>
+   <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
-	<td><a href="https://git.io/fang">圖文、視頻epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/fangqian%20(2).epub?raw=true">圖文、視頻epub</a></td>
 </tr>
-<tr>
+   <tr>
 	<td>【九评共产党】</td>
-	<td><a href="https://git.io/9ping">圖文epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/9ping.epub?raw=true">圖文epub</a></td>
 </tr>
-<tr>
+	<tr>
+	<td>（播报版）【共产主义的终极目的中国篇】全书一至六章</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/%EF%BC%88%E6%92%AD%E6%8A%A5%E7%89%88%EF%BC%89%E3%80%90%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E7%BB%88%E6%9E%81%E7%9B%AE%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AF%87%E3%80%91%E5%85%A8%E4%B9%A6%E4%B8%80%E8%87%B3%E5%85%AD%E7%AB%A0/goalmp4Npf.epub?raw=true">圖文epub mp4播报版</a></td>
+	</tr>
+   <tr>
 	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://git.io/8k">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/goodabc/GCC/blob/master/zjmd.md" target="_blank">mp4播报版 epub </a></td>
-</tr>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/epub/ultiGoalCmCN8k.epub?raw=true">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/goaljo.md" target="_blank">mp4播报版 epub </a></td>
+  </tr>
+   
+   
 <tr>
 	<td>解體黨文化</td>
-	<td><a href="https://git.io/jtdwh">圖文epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/jtdwh-2.0-20180107.epub?raw=true">圖文epub</a></td>
 </tr>
+
 <tr>
 	<td>马克思的成魔之路</td>
-	<td><a href="https://git.io/mks">圖文epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">圖文epub</a></td>
 </tr>
+
 <tr>
 	<td>江泽民其人</td>
-	<td><a href="https://git.io/jzmqr">圖文epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/jzmqr-pic-2.0-20161021.epub?raw=true">圖文epub</a></td>
 </tr>
+
 <tr>
 	<td>风雨天地行</td>
-	<td><a href="https://git.io/fytdx">圖文epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/fytdx-2.0-20161012.epub?raw=true">圖文epub</a></td>
 </tr>
+
 <tr>
 	<td>为什么要三退</td>
-	<td><a href="https://git.io/whytd">圖文epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/whytd.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
 	<td>死刑犯遮不住器官市场的蘑菇云</td>
-	<td><a href="https://git.io/mro">圖文epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/MRO-2.0-20161003.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
 	<td>一位律师的肺腑直言</td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/lawyer.epub?raw=true">圖文epub</a></td>
-</tr>
-<tr>
-<td>【明慧周报大陆版】（第675期）</td>
-<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MHZB_675.epub?raw=true">圖文epub</a></td>
-</tr>
-<td>【明慧周报大陆版】（第674期）</td>
-<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MHZB_674.epub?raw=true">圖文epub</a></td>
-</tr>
-<td>【明慧周报大陆版】（第673期）</td>
-<td><a href="https://github.com/gb3344/show1/blob/master/download/epub/MHZB_673.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/lawyer.epub?raw=true">圖文epub</a></td>
 </tr>
 </table>
- <div align="right"><a href="https://git.io/goal" style="font-size:24px;color:blue;">回真相部落</a></div>
- </body>
-</html>
+
+<h3> ■真相小花提供最真实、及时的真相视频、音频和电子书 </h3>
+ <li><span class="h2Minghui"> ■ </span>突破网络封锁访问真相小花， <a href="https://git.io/goal">https://git.io/goal</a>。 这个链接国内不屏蔽，请妥为收藏，页面有真相部落及时IP，也可以下载所有最新版翻墙软件，如自由门、无界、爱博、iNTD等 
+      <p></p></li>
