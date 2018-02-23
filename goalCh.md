@@ -64,5 +64,15 @@
 	<td><center><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/goalCh7.epub?raw=true">【共产主义的终极目的】（7）</a></center></td>
 	<td><center><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/goalCh8.epub?raw=true">【共产主义的终极目的】（8）</a></center></td>
 	<td><center>&nbsp;</center></td>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh9.epub?raw=true">【共产主义的终极目的】（9）</a></center></td>
+	<tr>	
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh10.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/img/coal123AS.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh11.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/img/coal123AS.jpg" width="265"  border="0" alt=""></a></td>
+	<td><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh12.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/img/coal123AS.jpg" width="265"  border="0" alt=""></a></td>
+</tr>
+<tr>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh10.epub?raw=true">【共产主义的终极目的】（10）</a></center></td>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh11.epub?raw=true">【共产主义的终极目的】（11）</a></center></td>
+	<td><center><a href="https://github.com/j168/j688/blob/master/ebook/epub/goalCh12.epub?raw=true">【共产主义的终极目的】（12）</a></center></td>
 </tr>
 </table>
