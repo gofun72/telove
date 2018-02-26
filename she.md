@@ -6,7 +6,7 @@
 <H1 align="center">错过2018年新唐人全球华人新年晚会的朋友，元宵节可能还有一场回放，再错过可能要再等一年，请大家告诉大家！</H1>
 <h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
 
-<a href="https://github.com/goodabc/GCC/blob/master/GCC/ebook/epub/sy.epub?raw=true">神韵晚会台湾场次表 epub电子书</a>
+<a href="https://github.com/gofun72/telove/blob/master/ebook/epub/gala2018.epub?raw=true">神韵晚会台湾场次表 epub电子书</a>
 <h3>【新唐人北京时间2018年02月11日讯】神韵艺术团世界巡回演出，场场爆满一票难求。中国新年期间新唐人电视台将独家播出2018新唐人全球华人新年晚会——神韵晚会，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
 </h3><p></p>
 
