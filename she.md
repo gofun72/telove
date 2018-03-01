@@ -3,7 +3,10 @@
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/shen/symphony.jpg" width="880"><p></p><h1>新唐人元宵节期间播出2017年神韵交响乐团音乐会</h1></div>
 
 
-<H1 align="center">错过2018年新唐人全球华人新年晚会的朋友，元宵节可能还有一场回放，再错过可能要再等一年，请大家告诉大家！</H1>
+<H1 align="center">【新唐人北京时间2018年02月27日讯】3月2日是正月十五元宵节。新唐人电视台将播出〝神韵交响乐团2017年演出〞。在大陆、纽约、美西、欧洲等全球五个频道播放。新唐人网站与电视台同时播放。如果再错过可能还得再等一年
+五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！
+神韵交响乐团以洪大的交响乐再现中华音乐传统，由中国器乐领衔，搭配西方经典曲目，重现失传的美声唱法，带给您前所未有的启迪。</H1>
+
 <h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
 
 <a href="https://github.com/gofun72/telove/blob/master/ebook/epub/gala2018.epub?raw=true">神韵晚会台湾场次表 epub电子书</a>
