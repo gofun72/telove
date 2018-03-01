@@ -16,11 +16,7 @@
 
 
 
-<h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
 
-
-<h3>这场2017年神韵交响乐团音乐会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观
-，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
 
 
 <div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播出时间如下：</a></h1></div>
@@ -82,5 +78,12 @@
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
 </tr>
 </table>
+
+<h4><a href="http://www.shenyun.com">海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com</a></h4>
+
+
+<h3>这场2017年神韵交响乐团音乐会节目，但只限于中国大陆地区收看。 请通过翻墙软件自由门、无界浏览或iNTD TV看观
+，并请锁定中国频道这个网址：<a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">http://www.ntdtv.com/xtr/gb/tv_ch1china.html</a><h3>
+
   <h2 a align="center"><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/gala2018.epub?raw=true"> ★★神韵晚会台湾场次表电子书下載(ePub版)★★</h2>
 
