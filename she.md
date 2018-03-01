@@ -10,7 +10,7 @@
 
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
 
-<a href="https://github.com/gofun72/telove/blob/master/ebook/epub/gala2018.epub?raw=true">神韵晚会台湾场次表 epub电子书</a>
+
 
 </h3><p></p>
 
@@ -82,4 +82,5 @@
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
 </tr>
 </table>
-  <h2 a align="center"><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/gala2018.epub?raw=true"> ★★新年期间播出时间电子书下載(ePub版)★★</h2>
+  <h2 a align="center"><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/gala2018.epub?raw=true"> ★★神韵晚会台湾场次表电子书下載(ePub版)★★</h2>
+
