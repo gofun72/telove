@@ -24,42 +24,6 @@
 
 
 <div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播出时间如下：</a></h1></div>
-<div align="center"><h1>新年晚会</h1></div><p></p>
-<table width = 90%>
-				<tr style="background:lightyellow;text-align:center">
-					<td width="220">日期</td>
-					<td width="220">时间</td>
-					<td width="440">备注</td>
-				</tr>
-				<tr style="background:lightyellow;text-align:center">
-					<td>02/15 除夕</td>
-					<td>20:00-23:00</td>
-					<td>新年晚会 首播 180分钟</td>
-				</tr>
-				<tr style="background:lightyellow;text-align:center">
-					<td>02/15 除夕</td>
-					<td>23:00-02:00</td>
-					<td>新年晚会 重播 180分钟</td>
-				</tr>
-</table>
-<p></p>
-<table width = 90%>
-				<tr style="background:lightyellow;text-align:center">
-					<td width="220">日期</td>
-					<td width="220">时间</td>
-					<td width="440">备注</td>
-				</tr>
-        <tr style="background:lightyellow;text-align:center">
-					<td>02/16 大年初一</td>
-					<td>08:30-11:30</td>
-					<td>新年晚会 重播 180分钟</td>
-				</tr>
-				<tr style="background:lightyellow;text-align:center">
-					<td>02/16 大年初一</td>
-					<td>14:00-17:00</td>
-					<td>新年晚会 重播 180分钟</td>
-				</tr>
-</table><p></p>
 
 <div align="center"><h1>神韵交响乐团</h1></div><p></p>
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/shen/she2.jpg" width="400">
