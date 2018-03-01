@@ -87,3 +87,5 @@
 
   <h2 a align="center"><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/gala2018.epub?raw=true"> ★★神韵晚会台湾场次表电子书下載(ePub版)★★</h2>
 
+
+<a href="https://github.com/j168/j688/blob/master/epub/gala%2020181.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/show.jpg">
