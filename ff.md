@@ -1,6 +1,6 @@
   <div align="center">
    <h1>突破封锁看世界 翻墙请先下软件</h1>
-
+<h1 class="p1"><a href="https://github.com/gofun72/telove/edit/master/ff.md">突破封锁看世界 翻墙请先下软件</a></h1>
 <table align="center" >
 	<tr>
 		<td>
