@@ -126,6 +126,10 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td>（播报版）【共产主义的终极目的中国篇】</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/goalmp3Np.epub?raw=true">圖文epub</a></td>
 </tr>
+<tr>
+	<td>三亿退党</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/300Mst.epub?raw=true">圖文epub</a></td>
+</tr>
 </table>
 
 <h3> ■真相小花提供最真实、及时的真相视频、音频和电子书 </h3>
