@@ -65,30 +65,42 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 <h1>其他款电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
-	<td  width="500"></td>
+	<td  width="500">书名</td>
 	<td  width="330">說明</td>
 </tr>
- <tr>
-	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true">圖文、視頻epub</a></td>
+<tr>
+	<td>三亿退党潮 亿万人的觉醒之旅</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/300Mst.epub?raw=true">圖文、視頻</a></td>
+</tr>
+<tr>
+	<td>【法轮大法洪传世界】</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/fldfhao.epub?raw=true">圖文、視頻</a></td>
+</tr>
+<tr>
+	<td>【共产主义的终极目的中国篇】</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">圖文</a></td>
+</tr>
+<tr>
+	<td>【共产主义的终极目的中国篇-8k】</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/goalmp3Npr.epub?raw=true">8k音頻</a></td>
+</tr>
+<tr>
+	<td>【共产主义的终极目的中国篇-mp4】</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/goalCh.md">mp4-播报版</a></td>
 </tr>
    <tr>
 	<td>【突破封锁看世界】翻墙软件手册</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/fangqian%20(2).epub?raw=true">圖文、視頻epub</a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/fangqian.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
    <tr>
 	<td>【九评共产党】</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/9ping.epub?raw=true">圖文epub</a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/jpgcdm4a5k.epub?raw=true">圖文epub</a></td>
 </tr>
 	<tr>
 	<td>（播报版）【共产主义的终极目的中国篇】全书一至六章</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/%EF%BC%88%E6%92%AD%E6%8A%A5%E7%89%88%EF%BC%89%E3%80%90%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E7%BB%88%E6%9E%81%E7%9B%AE%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AF%87%E3%80%91%E5%85%A8%E4%B9%A6%E4%B8%80%E8%87%B3%E5%85%AD%E7%AB%A0/goalmp4Npf.epub?raw=true">圖文epub mp4播报版</a></td>
 	</tr>
-   <tr>
-	<td>【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/gbUltiGoalCmChina.epub?raw=true">圖文epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/epub/ultiGoalCmCN8k.epub?raw=true">鑲崁8k音頻epub</a>&nbsp;&nbsp;<a href="https://github.com/j168/j688/blob/master/goaljo.md" target="_blank">mp4播报版 epub </a></td>
-  </tr>
-   
+     
    
 <tr>
 	<td>解體黨文化</td>
@@ -126,10 +138,12 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td>（播报版）【共产主义的终极目的中国篇】</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/goalmp3Np.epub?raw=true">圖文epub</a></td>
 </tr>
-<tr>
-	<td>三亿退党</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/300Mst.epub?raw=true">圖文epub</a></td>
+
+ <tr>
+	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
+
 </table>
 
 <h3> ■真相小花提供最真实、及时的真相视频、音频和电子书 </h3>
