@@ -5,7 +5,7 @@
 
 <img src="https://github.com/gofun72/telove/blob/master/img/20180409lt.jpg" width="890">
 
- <img src=" https://github.com/gofun72/telove/blob/master/img/soft/free-2.png" width="890">
+ <img src=" https://git.io/vx7Oy" width="890">
  
  
  <div align="center">
