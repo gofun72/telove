@@ -1,11 +1,13 @@
 
  <body>
+	
+<img src="https://github.com/gofun72/telove/blob/master/img/20180409lt.jpg" width="890">	
+	
+	
  <div align="right"><a href="http://te.luisia.bid/" style="font-size:24px;color:blue;">回真相部落</a></div>
 
 
 <div align="center"><h1>手机上好看的电子书（ePub版）</h1></div>
-
-
  
 
 【明慧网二零一六年七月二十八日】根据明慧网2009年3月26日刊载的中文chm格式的《九评共产党》制作成ePub格式的电子书。
