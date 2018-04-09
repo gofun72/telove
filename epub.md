@@ -107,13 +107,17 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 </tr> 
    
 <tr>
-	<td>【解體黨文化】</td>
+	<td>【解体党文化】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/jtdwh-2.0-20180107.epub?raw=true">圖文epub</a></td>
 </tr>
 
 <tr>
 	<td>【马克思的成魔之路】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">圖文epub</a></td>
+</tr>
+<tr>
+	<td>【百年红祸】</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/bnhhv.epub?raw=true">圖文、視頻</a></td>
 </tr>
 <tr>
 	<td>【16年前的长春3.05插播壮举】</td>
