@@ -97,52 +97,50 @@ ePub格式的电子书可以用手机、平板电脑、电脑上的网络浏览�
 	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/jpgcdm4a5k.epub?raw=true">圖文epub</a></td>
 </tr>
 	<tr>
-	<td>（播报版）【共产主义的终极目的中国篇】全书一至六章</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/%EF%BC%88%E6%92%AD%E6%8A%A5%E7%89%88%EF%BC%89%E3%80%90%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E7%BB%88%E6%9E%81%E7%9B%AE%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AF%87%E3%80%91%E5%85%A8%E4%B9%A6%E4%B8%80%E8%87%B3%E5%85%AD%E7%AB%A0/goalmp4Npf.epub?raw=true">圖文epub mp4播报版</a></td>
-	</tr>
-     
+	<td>【江泽民其人】</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/jzmqr-pic-2.0-20161021.epub?raw=true">圖文、視頻</a></td>
+</tr> 
    
 <tr>
-	<td>解體黨文化</td>
+	<td>【解體黨文化】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/jtdwh-2.0-20180107.epub?raw=true">圖文epub</a></td>
 </tr>
 
 <tr>
-	<td>马克思的成魔之路</td>
+	<td>【马克思的成魔之路】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/Advanced-Seminar-cc-ppt-20161129.epub?raw=true">圖文epub</a></td>
 </tr>
-
 <tr>
-	<td>江泽民其人</td>
-	<td><a href="https://github.com/j168/j688/blob/master/epub/jzmqr-pic-2.0-20161021.epub?raw=true">圖文epub</a></td>
+	<td>【16年前的长春3.05插播壮举】</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/305.epub?raw=true">圖文epub</a></td>
 </tr>
 
 <tr>
-	<td>风雨天地行</td>
+	<td>【风雨天地行】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/fytdx-2.0-20161012.epub?raw=true">圖文epub</a></td>
 </tr>
 
 <tr>
-	<td>为什么要三退</td>
+	<td>【为什么要三退】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/whytd.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
-	<td>死刑犯遮不住器官市场的蘑菇云</td>
+	<td>【死刑犯遮不住器官市场的蘑菇云】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/MRO-2.0-20161003.epub?raw=true">圖文epub</a></td>
 </tr>
 <tr>
-	<td>一位律师的肺腑直言</td>
+	<td>【一位律师的肺腑直言】</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/lawyer.epub?raw=true">圖文epub</a></td>
 </tr>
-<tr>
-	<td>（播报版）【共产主义的终极目的中国篇】</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/goalmp3Np.epub?raw=true">圖文epub</a></td>
-</tr>
-
  <tr>
 	<td>2018新唐人全球华人新年晚会——神韵晚会</td>
 	<td><a href="https://github.com/j168/j688/blob/master/epub/gala2018.epub?raw=true">圖文、視頻epub</a></td>
 </tr>
+
+<td>（播报版）【共产主义的终极目的中国篇】全书一至六章</td>
+	<td><a href="https://github.com/j168/j688/blob/master/epub/%EF%BC%88%E6%92%AD%E6%8A%A5%E7%89%88%EF%BC%89%E3%80%90%E5%85%B1%E4%BA%A7%E4%B8%BB%E4%B9%89%E7%9A%84%E7%BB%88%E6%9E%81%E7%9B%AE%E7%9A%84%E4%B8%AD%E5%9B%BD%E7%AF%87%E3%80%91%E5%85%A8%E4%B9%A6%E4%B8%80%E8%87%B3%E5%85%AD%E7%AB%A0/goalmp4Npf.epub?raw=true">圖文epub mp4播报版</a></td>
+	</tr>
+
 
 </table>
 
