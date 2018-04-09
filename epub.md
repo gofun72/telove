@@ -67,14 +67,14 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br><br>
 
 
-<h1>其他款电子书</h1>
+<div align="center"><h1>其他款电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
 	<td  width="500">书名</td>
 	<td  width="330">說明</td>
 </tr>
 <tr>
-	<td>三亿退党潮 亿万人的觉醒之旅</td>
+	<td>【三亿退党潮 亿万人的觉醒之旅】</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/300Mst.epub?raw=true">圖文、視頻</a></td>
 </tr>
 <tr>
