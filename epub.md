@@ -67,7 +67,7 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 直接下载Windows版：<a href="storage.googleapis.com/windows_updates/setup_1_1_1006.exe" target="_blank">storage.googleapis.com/windows_updates/setup_1_1_1006.exe</a><br><br>
 
 
-<div align="center"><h1>其他款电子书</h1>
+<div align="center"><h1>其他电子书</h1>
 <table  cellspacing="1" cellpadding="1">
 <tr  width="880">
 	<td  width="500">书名</td>
