@@ -1,8 +1,8 @@
 
 
-<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20180409lt.jpg" width="800"></div>
+<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20180411stl.jpg" width="800"></div>
 
-<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20180409lsy.jpg" width="800"></div>
+
 
 <br/>
 <table>
