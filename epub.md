@@ -73,10 +73,7 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 	<td  width="500">书名</td>
 	<td  width="330">說明</td>
 </tr>
-<tr>
-	<td>【三亿退党潮 亿万人的觉醒之旅】</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/300Mst.epub?raw=true">圖文、視頻</a></td>
-</tr>
+
 <tr>
 	<td>【法轮大法洪传世界】</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/fldfhao.epub?raw=true">圖文、視頻</a></td>
