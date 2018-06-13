@@ -149,6 +149,9 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 <td>渝妇被活摘器官时逃生</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E6%B8%9D%E5%A6%87%E8%A2%AB%E6%B4%BB%E6%91%98%E5%99%A8%E5%AE%98%E6%97%B6%E9%80%83%E7%94%9F.epub?raw=true">圖文epub </a></td>
 	</tr>
+<td>为什么劝你退党</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%9D%E4%BD%A0%E9%80%80%E5%85%9A.epub?raw=true">圖文epub </a></td>
+	</tr>
 
 
 </table>
