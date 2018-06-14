@@ -186,7 +186,7 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 
 
 <td>魔鬼在统治着我们的世</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E9%AD%94%E9%AC%BC%E5%9C%A8%E7%BB%9F%E6%B2%BB%E7%9D%80%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%96%E7%95%8C.epub?raw=true ">圖文epub </a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/esep.epub?raw=true">圖文epub </a></td>
 	</tr>
 
 
