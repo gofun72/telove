@@ -190,6 +190,9 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 	</tr>
 
 
+<td>明慧期刊(真相)-控告江澤民</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E6%98%8E%E6%85%A7%E6%9C%9F%E5%88%8A(%E7%9C%9F%E7%9B%B8)-%E6%8E%A7%E5%91%8A%E6%B1%9F%E6%BE%A4%E6%B0%91.epub?raw=true ">圖文epub </a></td>
+	</tr>
 
 
 
