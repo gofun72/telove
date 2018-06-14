@@ -196,7 +196,7 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 
 
 <td>【千古英雄人物】曹操 </td>
-	<td><a href=" https://github.com/gofun72/telove/blob/master/ebook/epub/hero-Cao-cao.epub?raw=true">圖文epub </a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/hero-Cao-cao.epub?raw=true">圖文epub </a></td>
 	</tr>
 
 
@@ -215,7 +215,7 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 	</tr>
 
 <td>【千古英雄人物】秦始皇</td>
-	<td><a href=" https://github.com/gofun72/telove/blob/master/ebook/epub/hero-Qin-shi-huang.epub?raw=true">圖文epub </a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/hero-Qin-shi-huang.epub?raw=true">圖文epub </a></td>
 	</tr>
 
 
@@ -225,11 +225,11 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 
 
 <td>【千古英雄人物】尧舜禹</td>
-	<td><a href=" https://github.com/gofun72/telove/blob/master/ebook/epub/hero-Yao-shun-yu%20.epub?raw=true">圖文epub </a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/hero-Yao-shun-yu%20.epub?raw=true">圖文epub </a></td>
 	</tr>
 
 <td>【千古英雄人物】张三丰</td>
-	<td><a href=" https://github.com/gofun72/telove/blob/master/ebook/epub/hero-Zhang-san-feng.epub?raw=true">圖文epub </a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/hero-Zhang-san-feng.epub?raw=true">圖文epub </a></td>
 	</tr>
 
 
