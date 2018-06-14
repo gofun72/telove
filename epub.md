@@ -232,6 +232,28 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/hero-Zhang-san-feng.epub?raw=true">圖文epub </a></td>
 	</tr>
 
+<td>无法掩盖的罪证</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/incredible-0605.epub?raw=true ">圖文epub </a></td>
+	</tr>
+
+
+
+
+<td>真实的江泽民</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/realjzm.epub?raw=true ">圖文epub </a></td>
+	</tr>
+
+
+
+<td>三退是福</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/santuishifu-0524%20.epub?raw=true ">圖文epub </a></td>
+	</tr>
+
+
+
+<td>您把毒誓发给了谁</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/whyTD-0523.epub?raw=true ">圖文epub </a></td>
+	</tr>
 
 
 
