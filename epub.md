@@ -152,6 +152,28 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 <td>为什么劝你退党</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8A%9D%E4%BD%A0%E9%80%80%E5%85%9A.epub?raw=true">圖文epub </a></td>
 	</tr>
+<td>神韵2018巡演五大洲 百万人感佩（亚洲篇）</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E7%A5%9E%E9%9F%B52018%E5%B7%A1%E6%BC%94%E4%BA%94%E5%A4%A7%E6%B4%B2%20%E7%99%BE%E4%B8%87%E4%BA%BA%E6%84%9F%E4%BD%A9%EF%BC%88%E4%BA%9A%E6%B4%B2%E7%AF%87%EF%BC%89.epub?raw=true ">圖文epub </a></td>
+	</tr>
+
+<td>神韵2018巡演五大洲 百万人感佩（拉美篇）</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E7%A5%9E%E9%9F%B52018%E5%B7%A1%E6%BC%94%E4%BA%94%E5%A4%A7%E6%B4%B2%20%E7%99%BE%E4%B8%87%E4%BA%BA%E6%84%9F%E4%BD%A9%EF%BC%88%E6%8B%89%E7%BE%8E%E7%AF%87%EF%BC%89.epub?raw=true ">圖文epub </a></td>
+	</tr>
+
+
+<td>神韵2018巡演五大洲 百万人感佩（欧洲中东篇）</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E7%A5%9E%E9%9F%B52018%E5%B7%A1%E6%BC%94%E4%BA%94%E5%A4%A7%E6%B4%B2%20%E7%99%BE%E4%B8%87%E4%BA%BA%E6%84%9F%E4%BD%A9%EF%BC%88%E6%AC%A7%E6%B4%B2%E4%B8%AD%E4%B8%9C%E7%AF%87%EF%BC%89.epub?raw=true ">圖文epub </a></td>
+	</tr>
+
+
+<td>神韵2018巡演五大洲 百万人感佩（美国篇）</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E7%A5%9E%E9%9F%B52018%E5%B7%A1%E6%BC%94%E4%BA%94%E5%A4%A7%E6%B4%B2%20%E7%99%BE%E4%B8%87%E4%BA%BA%E6%84%9F%E4%BD%A9%EF%BC%88%E7%BE%8E%E5%9B%BD%E7%AF%87%EF%BC%89.epub?raw=true ">圖文epub </a></td>
+	</tr>
+
+
+<td>神韻2018巡演五大洲 百萬人感佩（大洋洲篇）</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/%E7%A5%9E%E9%9F%BB2018%E5%B7%A1%E6%BC%94%E4%BA%94%E5%A4%A7%E6%B4%B2%20%E7%99%BE%E8%90%AC%E4%BA%BA%E6%84%9F%E4%BD%A9%EF%BC%88%E5%A4%A7%E6%B4%8B%E6%B4%B2%E7%AF%87%EF%BC%89.epub?raw=true ">圖文epub </a></td>
+	</tr>
 
 
 </table>
