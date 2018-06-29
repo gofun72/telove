@@ -4,7 +4,7 @@
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20180629tl.jpg" width="780">	
 
 	
- <div align="right"><a href="http://te.luisia.bid/" style="font-size:24px;color:blue;">回真相部落</a></div>
+ <div align="right"><a href="http://git.io/goal-2" style="font-size:24px;color:blue;">前往看更多真相</a></div>
 
 
 <div align="center"><h1>手机上好看的电子书（ePub版）</h1></div>
