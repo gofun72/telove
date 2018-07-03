@@ -255,6 +255,31 @@ ePub是在手持阅读设备（包括手机等）上最受支持的电子书格�
 	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/whyTD-0523.epub?raw=true ">圖文epub </a></td>
 	</tr>
 
+<td>【中国历史正述】导论</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/China-history-introduction.epub?raw=true">图文epub </a></td>
+	</tr>
+
+
+
+
+<td>【中国历史正述】创世记</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/China-history-Genesis.epub?raw=true">图文epub </a></td>
+	</tr>
+
+
+<td>【中国历史正述】五帝</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/China-history-Wu-di.epub?raw=true ">图文epub </a></td>
+	</tr>
+
+
+<td>【中国历史正述】夏</td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/China-history-Xia.epub?raw=true ">图文epub </a></td>
+	</tr>
+
+
+<td>【中国历史正述】商 </td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/China-history-%20shang.epub?raw=true ">图文epub </a></td>
+	</tr>
 
 
 
