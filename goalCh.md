@@ -1,6 +1,6 @@
 
 
-<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/2018-0729.jpg" width="850"></div>
+<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20180802tl.jpg" width="850"></div>
 
 
 
