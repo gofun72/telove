@@ -1,5 +1,5 @@
   
-  <img src="https://github.com/gofun72/telove/blob/master/img/20180928.jpg" width="880">	
+  <img src="https://github.com/gofun72/telove/blob/master/img/20181002sy.jpg" width="880">	
   
   <div align="center">
    
