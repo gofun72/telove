@@ -89,4 +89,4 @@
 </table>
 
 
- <div align="right"><a href="https://github.com/3fmd/gm/blob/master/epub.md" style="font-size:24px;color:blue;"><img src="https://github.com/gofun72/telove/blob/master/img/2018-10-07_qr%20to.jpg" width="800"></a></div>
+ <div align="right"><a href="https://github.com/3fmd/gm/blob/master/epub.md" style="font-size:24px;color:blue;"><img src="https://github.com/gofun72/telove/blob/master/img/2018-10-07_qr%20to.jpg" width="880"></a></div>
