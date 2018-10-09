@@ -3,16 +3,17 @@
   
   <div align="center">
    
+   <h1 class="p1"><a href="https://git.io/ming2">◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！<点击看详情></a></h1>
+   
+   
 <h1 class="p1"><a href="https://github.com/gofun72/telove/edit/master/ff.md">突破封锁看世界 翻墙请先下软件</a></h1>
+<br>
 <table align="center" >
-	<tr>
-		<td>
+	<tr><td>
 		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="890">	
 		</td>	
 <br>
-<br>
-	
-		
+
 		
 </tr>	
 </table>
