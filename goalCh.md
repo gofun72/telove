@@ -84,3 +84,4 @@
 	<td><center>&nbsp;</center></td>
 </tr>
 </table>
+<div class="center"><a href="https://git.io/ming2"><img src="https://github.com/gofun72/telove/blob/master/img/20181009share.jpg" width="860"></div>
