@@ -17,7 +17,7 @@
 ### (推荐)Reasily - EPUB 阅读器，可以觀看視頻、音頻EPUB。<a href="https://github.com/gofun72/telove/blob/master/download/Reasily1802h.apk?raw=true">直接下载</a>
 
 ePub是在手持阅读设备（包括手机等）上最受支持的电子书格式，很多手持设备自带的阅读器都支持ePub而无需安装额外软件，苹果手机自带的阅读器iBooks，以及安卓手机上谷歌的阅读器软件“Play 图书”（Play Books）软件都很好的支持ePub格式。ePub格式的电子书能自动根据阅读器屏幕的大小，手持方向等实时排版以获得优化的阅读效果。读者可以在ePub书里添加书签、注释，改变字体及大小，能搜索，非常方便。<p></p>
-
+<br>
 ◆一般智能手机都有支持epub，可利用储存百度云，在百度云可直接开启 安卓或苹果都可安装「掌阅iReader」这个APP 
 掌阅iReader官网
   http://www.zhangyue.com/products/iReader
