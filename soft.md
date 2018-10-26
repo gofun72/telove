@@ -3,7 +3,7 @@
 
 
 
-<img src="https://github.com/gofun72/telove/blob/master/img/20181026tl.jpg" width="800">
+<img src="https://github.com/gofun72/telove/blob/master/img/20181026tl.jpg" width="880">
 
  <img src=" https://git.io/vx7Oy" width="890">
  
