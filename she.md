@@ -1,31 +1,22 @@
 
-<div align="center"><a href="http://111.241.88.207/sy"><img src="https://github.com/gofun72/telove/blob/master/img/20181119tl.jpg" width="880"><p></p>
+<div align="center"><a href="http://220.141.119.40/sy"><img src="https://github.com/gofun72/telove/blob/master/img/20181122tl.jpg" width="880"><p></p>
 
 
 
-<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/shen/symphony.jpg" width="880"><p></p><h1>新唐人元宵节期间播出2017年神韵交响乐团音乐会</h1></div>
+<div align="center"><a href="http://220.141.119.40/sy"><img src="https://github.com/gofun72/telove/blob/master/img/2018-11-19_230558.jpg" width="880"><p></p><h1>感恩节期间，新唐人电视台将独家播出“神韵艺术团交响乐团2016年音乐会”。</h1></div>
 
-<h3>【新唐人北京时间2018年02月27日讯】3月2日是正月十五元宵节。新唐人电视台将播出〝神韵交响乐团2017年演出〞。在大陆、纽约、美西、欧洲等全球五个频道播放。新唐人网站与电视台同时播放。如果再错过可能还得再等一年</h3>
+<h3>恩节期间，11月22日（周四）到11月25日（周日），“新唐人电视台”将独家播出“2016神韵艺术团交响乐团音乐会”，分别在大陆、美东、美西等频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放。  （在中国大陆需翻墙访问）</h3>
 
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
 
 <h3>神韵交响乐团以洪大的交响乐再现中华音乐传统，由中国器乐领衔，搭配西方经典曲目，重现失传的美声唱法，带给您前所未有的启迪。</h3>
-
-
-
-
-
 </h3><p></p>
-
-
-
-
-
+<h1>请大家告诉大家，并请先下载翻墙软件 详细阅读下方的收视方法。</h1> 
 
 <div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播出时间如下：</a></h1></div>
 
 <div align="center"><h1>神韵交响乐团</h1></div><p></p>
-<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/shen/she2.jpg" width="400">
+
 
 <table width = 90%>
 				<tr style="background:lightyellow;text-align:center">
