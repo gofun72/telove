@@ -34,7 +34,7 @@
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/ippo.jpg" align="middle" width="240" alt="爱博电视"></td>
 	<td></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/ippo.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/ippo.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
 </tr>
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/intd.jpg" align="middle" width="240" alt="intdtv"></td>
@@ -76,7 +76,7 @@
 <tr>
 	<td>爱博</td>
 	<td>无</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true">桌机0944版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV_n.exe?raw=true">桌机0944版</a></a></td>
 	
 </tr>
 
