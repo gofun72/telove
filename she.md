@@ -82,4 +82,6 @@
   <h2 a align="center"><a href="https://github.com/gofun72/telove/blob/master/ebook/epub/gala2018.epub?raw=true"> ★★神韵晚会台湾场次表电子书下載(ePub版)★★</h2>
 
 
-<a href="https://github.com/j168/j688/blob/master/epub/gala%2020181.epub?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/show.jpg">
+<h3>✪✪ 特别特别推荐这款(爱博电视桌机版)
+ <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
+  <br><br/>
