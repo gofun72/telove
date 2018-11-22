@@ -25,19 +25,19 @@
 					<td width="440">备注</td>
 				</tr>
 				<tr style="background:lightyellow;text-align:center">
-					<td>03/02 元宵</td>
-					<td>21:30-23:00</td>
-					<td>神韵交响乐团2017年演出</td>
+					<td>2018-11/22 感恩节</td>
+					<td>20:00</td>
+					<td>神韵交响乐团</td>
 				</tr>
 				<tr style="background:lightyellow;text-align:center">
-					<td>03/03</td>
-					<td>8:30-10:00</td>
-					<td>神韵交响乐团2017年演出</td>
+					<td>2018-11/23</td>
+					<td>10:30</td>
+					<td>神韵交响乐团</td>
 				</tr>
 				<tr style="background:lightyellow;text-align:center">
-					<td>03/03</td>
-					<td>17:00-18:30</td>
-					<td>神韵交响乐团2017年演出</td>
+					<td>2018-11/25</td>
+					<td>10:00</td>
+					<td>神韵交响乐团</td>
 				</tr>
 </table>
 <p></p>
