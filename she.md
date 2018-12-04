@@ -1,5 +1,5 @@
 
-<div align="center"><a href="http://111.241.94.74/sy"><img src="https://github.com/gofun72/telove/blob/master/img/20181204tl.jpg" width="880"><p></p>
+<div align="center"><a href="http://111.241.94.74"><img src="https://github.com/gofun72/telove/blob/master/img/20181204tl.jpg" width="880"><p></p>
 
 
 
