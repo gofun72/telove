@@ -1,9 +1,9 @@
 
-<div align="center"><a href="http://36.227.98.168/sy"><img src="https://github.com/gofun72/telove/blob/master/img/20181130tl.jpg" width="880"><p></p>
+<div align="center"><a href="http://111.241.94.74/sy"><img src="https://github.com/gofun72/telove/blob/master/img/20181204tl.jpg" width="880"><p></p>
 
 
 
-<div align="center"><a href="http://220.141.119.40/sy"><img src="https://github.com/gofun72/telove/blob/master/img/2018-11-19_230558.jpg" width="880"><p></p><h1>感恩节期间，新唐人电视台将独家播出“神韵艺术团交响乐团2016年音乐会”。</h1></div>
+<div align="center"><a href="http://111.241.94.74/sy"><img src="https://github.com/gofun72/telove/blob/master/img/2018-11-19_230558.jpg" width="880"><p></p><h1>感恩节期间，新唐人电视台将独家播出“神韵艺术团交响乐团2016年音乐会”。</h1></div>
 
 <h3>恩节期间，11月22日（周四）到11月25日（周日），“新唐人电视台”将独家播出“2016神韵艺术团交响乐团音乐会”，分别在大陆、美东、美西等频道播放。同时，新唐人网站（www.ntdtv.com）首页直播窗口和Roku也同步播放。  （在中国大陆需翻墙访问）</h3>
 
