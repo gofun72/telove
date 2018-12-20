@@ -1,5 +1,5 @@
 
-<div align="center"><a href="http://61.228.117.125/sy"><img src="https://github.com/gofun72/telove/blob/master/img/20181219tl.jpg" width="880"><p></p>
+<div align="center"><a href="http://61.228.117.125/sy"><img src="https://github.com/gofun72/telove/blob/master/img/20181219tl.jpg" width="880"><p></p></div>
 
 
 
@@ -10,10 +10,10 @@
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
 
 <h3>神韵交响乐是神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪，让您踏上五千年的音乐之旅。</h3>
+<p></p>
 
-
-</h3><p></p>
-<h1>请大家告诉大家，并请先<a href="https://github.com/gofun72/telove/blob/master/soft.md">下载翻墙软件 详细阅读下方的收视方法。</h1> 
+<div align="center">
+<h1>请大家告诉大家，并请先<a href="https://github.com/gofun72/telove/blob/master/soft.md">下载翻墙软件 详细阅读下方的收视方法。</h1></div>
 
 <h3><div align="center">美东地区播出时间：<p>
 
