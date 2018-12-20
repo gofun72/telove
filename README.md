@@ -1,6 +1,10 @@
   
 <div align="center"><a href="http://61.228.117.125"><img src="https://github.com/gofun72/telove/blob/master/img/20181219tl.jpg" width="880"></a></div>	
   
+  
+  <div align="center"><a href="https://github.com/gofun72/telove/blob/master/she.md"><img src="https://github.com/gofun72/telove/blob/master/img/sym.jpg" width="880"></a></div>
+  
+  
   <div align="center">
    
    <h1 class="p1"><a href="https://git.io/ming2">◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！<点击看详情></a></h1>
