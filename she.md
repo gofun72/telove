@@ -13,7 +13,7 @@
 
 
 </h3><p></p>
-<h1>请大家告诉大家，并请先下载翻墙软件 详细阅读下方的收视方法。</h1> 
+<h1>请大家告诉大家，并请先<a href="https://github.com/gofun72/telove/blob/master/soft.md">下载翻墙软件 详细阅读下方的收视方法。</h1> 
 
 <h3><div align="center">美东地区播出时间：<p>
 
