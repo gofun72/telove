@@ -6,7 +6,7 @@
    <h1 class="p1"><a href="https://git.io/ming2">◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！<点击看详情></a></h1>
    
    
-<h1 class="p1"><a href="https://github.com/gofun72/telove/edit/master/ff.md">突破封锁看世界 翻墙请先下软件</a></h1>
+<h1> 突破封锁看世界 翻墙请先下软件</h1>
 <br>
 <table align="center" >
 	<tr><td>
