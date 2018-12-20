@@ -9,11 +9,11 @@
 
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</h3>
 
-<h3>神韵交响乐是神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪，让您踏上五千年的音乐之旅。</h3>
+<h3>神韵交响乐是神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪，让您踏上五千年的音乐之旅。</h3></div>
 <p></p>
 
 <div align="center">
-<h1>请大家告诉大家，并请先<a href="https://github.com/gofun72/telove/blob/master/soft.md">下载翻墙软件 详细阅读下方的收视方法。</h1></div>
+<h1><a href="https://github.com/gofun72/telove/blob/master/soft.md">请大家告诉大家，并请先下载翻墙软件 详细阅读下方的收视方法。</h1></div>
 
 <h3><div align="center">美东地区播出时间：<p>
 
@@ -32,7 +32,7 @@
 圣诞、新年期间《2017神韵交响乐团音乐会》各频道播出时间：
 时长：90分钟 </div><h3>
 
-<div align="center"><h1><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播出时间如下：</a></h1></div>
+<div align="center"><h2><a href="http://www.ntdtv.com/xtr/gb/tv_ch1china.html">大陆频道播出时间如下：</a></h2></div>
 
 <div align="center"><h1>神韵交响乐团</h1></div><p></p>
 
