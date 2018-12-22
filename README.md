@@ -7,9 +7,8 @@
      2018/12/25 星期二     10:00 重播<br>
      2018/12/25 星期二	17:00 重播<br>
      2018/12/31 星期一	13:00 首播<br>	
-     2018/12/31	星期一     20:30 重播 <br>	
-  
- </h3> </div>
+      2018/12/31星期一     20:30 重播 <br>	
+   </h3> </div>
   <br><br>
   <div align="center"><a href="http://61.228.117.125"><img src="https://github.com/gofun72/telove/blob/master/img/20181219tl.jpg" width="800"></a></div>	
   
