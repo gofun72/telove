@@ -2,12 +2,13 @@
  
   
   <div align="center"><a href="https://github.com/gofun72/telove/blob/master/she.md"><img src="https://github.com/gofun72/telove/blob/master/img/2018-1222sy.jpg" width="880"></a></div>
-  日期	        时间<br>	
-  2018/12/24 星期一 	20:00 <br>	
-      2018/12/25 星期二  10:00	<br>
-     2018/12/25 星期二	  17:00	<br>
- 2018/12/31 星期一	13:00 <br>	
-     2018/12/31	星期一  20:30	
+  <div align="center">
+	日期	                时间<br>	
+      2018/12/24 星期一 	20:00 <br>	
+      2018/12/25 星期二    10:00	<br>
+     2018/12/25 星期二	17:00	<br>
+     2018/12/31 星期一	13:00 <br>	
+     2018/12/31	星期一     20:30	
   
   
   <br><br>
