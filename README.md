@@ -10,7 +10,7 @@
       2018/12/31星期一     20:30 重播 <br>	
    </h3> </div>
   <br><br>
-  <div align="center"><a href="http://61.228.117.125"><img src="https://github.com/gofun72/telove/blob/master/img/20181219tl.jpg" width="800"></a></div>	
+  <div align="center"><a href="http://220.141.121.162"><img src="https://github.com/gofun72/telove/blob/master/img/20181223.jpg" width="800"></a></div>	
   
   <div align="center">
    
