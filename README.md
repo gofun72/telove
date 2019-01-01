@@ -1,16 +1,9 @@
   
  
   
-  <div align="center"><a href="https://github.com/gofun72/telove/blob/master/she.md"><img src="https://github.com/gofun72/telove/blob/master/img/2018-1222sy.jpg" width="880"></a></div>
-  <div align="center">      <h3>    
-     2018/12/24 星期一 	20:00 首播<br>	
-     2018/12/25 星期二     10:00 重播<br>
-     2018/12/25 星期二	17:00 重播<br>
-     2018/12/31 星期一	13:00 首播<br>	
-      2018/12/31星期一     20:30 重播 <br>	
-   </h3> </div>
+  
   <br><br>
-  <div align="center"><a href="http://220.141.121.202"><img src="https://github.com/gofun72/telove/blob/master/img/20181227tl.jpg" width="800"></a></div>	
+  <div align="center"><a href="http://61.228.116.228"><img src="https://github.com/gofun72/telove/blob/master/img/20190101.jpg" width="800"></a></div>	
   
   <div align="center">
    
