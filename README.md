@@ -3,7 +3,7 @@
   
   
   <br><br>
-  <div align="center"><a href="http://220.141.127.30"><img src="https://github.com/gofun72/telove/blob/master/img/20190104st.jpg" width="800"></a></div>	
+  <div align="center"><a href="http://220.141.127.117"><img src="https://github.com/gofun72/telove/blob/master/img/20190107tl.jpg" width="800"></a></div>	
   
   <div align="center">
    
