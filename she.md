@@ -11,7 +11,9 @@
 <h1><a href="https://github.com/gofun72/telove/blob/master/soft.md">请大家告诉大家，并请先下载翻墙软件 详细阅读下方的收视方法。</h1></div>
 
 
-    <td>大陆观众可通过韩星五号的新唐人中国频道收看</td>
+</tr>
+
+   <td>大陆观众可通过韩星五号的新唐人中国频道收看</td>
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
 </tr>
 	
