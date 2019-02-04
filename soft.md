@@ -1,7 +1,9 @@
 
 
-<div align="center"><a href="http://220.141.120.7"><img src="https://github.com/gofun72/telove/blob/master/img/ntdtv20192.jpg" width="880"></a></div>
-
+<div align="center"><a href="http://220.141.120.7"><img src="https://github.com/gofun72/telove/blob/master/img/ntdtv20192.jpg" width="850"></a></div>
+<div align="center"><h2><a href="https://github.com/sodore/dsds/edit/master/ssss.md">【预告】新唐人中国新年期间独家播出</h2></a></div>
+<h2>{翻墙软件 无界  自由门 桌机版 在计算机上能看;爱博是只能安装在桌几上看!请大家留意此}</h2>
+<hr>
 
 <div align="center"><a href="http://220.141.120.7"><img src="https://github.com/gofun72/telove/blob/master/img/20190129tl.jpg" width="880"></a></div>
 
