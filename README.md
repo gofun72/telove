@@ -1,6 +1,6 @@
    
     
-  <div align="center"><a href="http://220.141.128.139/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ntdtv2019-1.jpg" width="850"></a></div>
+  <div align="center"><a href="http://220.141.128.139/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ntdtv2019-1.jpg" width="750"></a></div>
   
 	  
  
