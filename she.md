@@ -1,7 +1,7 @@
 
 
 <br><br>
-  <div align="center"><a href="http://220.141.128.139/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ntdtv2019-1.jpg" width="850"></a></div>	
+  <div align="center"><a href="http://61.228.112.116/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ntdtv2019-1.jpg" width="850"></a></div>	
 
 <h1><b><a href="https://git.io/ict">【预告】新唐人中国新年期间独家播出2019全球华人新年晚会</a></b><p>
 【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</h1>
