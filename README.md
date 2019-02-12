@@ -54,41 +54,7 @@
 
 </table>
 <hr>
-<div align="center"><h3><a href="http://sy.epub.vin/sy">对海外播出的是“神韵艺术团"2018年演出</h3></a></div>  
-<div align="center"><a href="http://sy.epub.vin/sy">新唐人亚太台"神韵晚会"播出时间如下:</a></div>  
 
-<table>
-<tr>
-	<td width="290"><div align="center">日期</td></div>  
-	<td width="290"><div align="center">时间</td></div>  
-	<td width="300"><div align="center">备注</td></div>  
-</tr>
-<tr>
-	<td><div align="center">02/04/2019 除夕</td></div> 
-	<td><div align="center">20:00</td></div> 
-	<td><div align="center">神韵晚会  首播</td></div> 
-</tr>
-<tr>
-	<td><div align="center">02/05/2019 除夕</td></div> 
-	<td><div align="center">12：00</td></div> 
-	<td><div align="center">神韵晚会  重播</td></div> 
-	
-</tr>
-<tr>
-	<td><div align="center">02/05/2019 初一</td></div> 
-	<td><div align="center">09：00</td></div> 
-	<td><div align="center">神韵晚会  重播</td></div> 
-</tr>
-
-<tr>
-	<td><div align="center">02/05/2019 初一</td></div> 
-	<td><div align="center">15：00</td></div> 
-	<td><div align="center">神韵晚会  重播 </td></div> 
-</tr>
-
-</table>
- <br/>
- <hr>
 
 <div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出《2017神韵交响乐团音乐会》</h3></a></div>
  
@@ -134,7 +100,6 @@
 	
 </tr>
 </table>
-
 <table>
 <tr>
 <td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 ◆  </h3</a></td>
