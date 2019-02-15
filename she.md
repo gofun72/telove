@@ -1,7 +1,7 @@
 
 
 <br><br>
-  <div align="center"><a href="http://220.141.139.204/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ict2.jpg="800"></a></div>	
+  <div align="center"><a href="http://220.141.139.204/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ict2.jpg"="800"></a></div>	
 
 <h1><b><a href="https://git.io/ict">【预告】新 唐 人元宵节将播神韵晚会及音乐会</a></b><p></h1>
 <h2>元宵节期间，新唐人电视台将独家播出《新唐人全球华人新年晚会——神韵晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时，
