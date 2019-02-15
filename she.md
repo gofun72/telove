@@ -62,31 +62,6 @@
 
 
 <table>
-<div align="center"><h3>
-播出时间如下（均为当地时间）：<p></h3></div>
-
-<div align="center"><h2>2019中国新年期间《2017神韵交响乐团音乐会》播出时间<p>
-
-大陆	<p></h2></div>
-<tr>
-	<td width=293;>日期</td>
-	<td width=293;>时间</td>
-	<td width=293;>备注</td>
-</tr>	
-<tr>
-	<td width=293;>星期二(初一)	2/5/2019  Tue</td>
-	<td width=293;>20:00</td>
-	<td width=293;>《神韵交响乐团音乐会》首播</td>
-</tr>	
-<tr>
-	<td width=293;>星期三(初二)	2/6/2019  Wed</td>
-	<td width=293;>10:00</td>
-	<td width=293;>《神韵交响乐团音乐会》重播</td>
-</tr>		
-	   
-</table>
-
-<table>
 
    <td>大陆观众可通过韩星五号的新唐人中国频道收看</td>
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
