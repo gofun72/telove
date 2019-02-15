@@ -1,14 +1,15 @@
    
     
-  <div align="center"><a href="http://220.141.139.204/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ntdtv2019-1.jpg" width="650"></a></div>
-  
-	  
+  <div align="center"><a href="http://220.141.139.204/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ict2.jpg" width="700"></a></div>
+    
  
-【新唐人2019年02月01日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。
+元宵节期间，新唐人电视台将独家播出《新唐人全球华人新年晚会——神韵晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时， 在元宵节期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</P>
+五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌。神韵艺术团自2006年在全球巡演以来，迄今逾百万人观看，受到各国民众的热烈欢迎，爆满加坐成常态。</p>
+神韵交响乐是神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪，邀请您踏上五千年的音乐之旅。</p>
+亲爱的观众朋友们，让优质的中国古典舞及音乐盛宴陪您与家人共度元宵，敬请阖家观赏！
 
-五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌！</P>
 
-神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2018年演出”，对中国大陆播出的是“神韵艺术团2019年演出”。<a href="http://sy.epub.vin/sy">网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2016和2017年神韵交响乐团音乐会。</a></P>
+<a href="http://sy.epub.vin/sy">网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2017神韵交响乐团音乐会。</a></P>
 
 海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  
 <br/>
@@ -17,10 +18,8 @@
 <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P>
 
 ◆ 中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></div> 
-
   <br/>
 
-  <div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出的是“神韵艺术团"2019年演出</h3></a></div>  
 <div align="center"><a href="http://sy.epub.vin/sy">大陆频道播出时间如下:</a></div>  
 
 <table>
@@ -30,58 +29,32 @@
 	<td width="300"><div align="center">备注</td></div>  
 </tr>
 <tr>
-	<td><div align="center">02/04/2019 除夕</td></div> 
+	<td><div align="center">02/19/2019 </td></div> 
 	<td><div align="center">20:00</td></div> 
 	<td><div align="center">神韵晚会  首播</td></div> 
 </tr>
 <tr>
-	<td><div align="center">02/04/2019 除夕</td></div> 
+	<td><div align="center">02/19/2019</td></div> 
 	<td><div align="center">23:00</td></div> 
 	<td><div align="center">神韵晚会  重播</td></div> 
 	
 </tr>
 <tr>
-	<td><div align="center">02/05/2019 初一</td></div> 
-	<td><div align="center">08:30</td></div> 
-	<td><div align="center">神韵晚会  重播</td></div> 
+	<td><div align="center">02/20/2019 </td></div> 
+	<td><div align="center">8:00</td></div> 
+	<td><div align="center">2017神韵交响乐团音乐会 首播</td></div> 
 </tr>
 
 <tr>
-	<td><div align="center">02/05/2019 初一</td></div> 
+	<td><div align="center">02/20/2019 </td></div> 
 	<td><div align="center">14:00</td></div> 
-	<td><div align="center">神韵晚会  重播 </td></div> 
+	<td><div align="center">2017神韵交响乐团音乐会  重播 </td></div> 
 </tr>
 
 </table>
 <hr>
 
 
-<div align="center"><h3><a href="http://sy.epub.vin/sy">对中国大陆播出《2017神韵交响乐团音乐会》</h3></a></div>
- 
-在新年期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</p>
-<br/>
-<hr>
-
-<div align="center"><a href="http://sy.epub.vin/sy">大陆频道播出时间如下:</a></div> 
-
-<table>
-<tr>
-	<td width="290"><div align="center">日期</td></div>  
-	<td width="290"><div align="center">时间</td></div>  
-	<td width="300"><div align="center">备注</td></div>  
-</tr>
-<tr>
-	<td><div align="center">2/5/2019 初一</td></div> 
-	<td><div align="center">20:00</td></div> 
-	<td><div align="center">神韵交响乐团音乐会  首播</td></div> 
-</tr>
-<tr>
-	<td><div align="center">2/6/2019 初二</td></div> 
-	<td><div align="center">10：00</td></div> 
-	<td><div align="center">神韵交响乐团音乐会  重播</td></div> 
-	
-</tr>
-</table>
  <br/>
 <hr>
 <div align="center"><h3><a href="http://sy.epub.vin/sy">收视方法</h3></a></div> 
