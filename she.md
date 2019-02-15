@@ -16,9 +16,10 @@
 <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</P>
 <p></p>
 <div align="center">
-<h1><a href="https://github.com/gofun72/telove/blob/master/soft.md">请大家告诉大家，并请先下载翻墙软件 详细阅读下方的收视方法。</h1></div>
+<h1><a href="https://github.com/gofun72/telove/blob/master/soft.md">请大家告诉大家，并请先下载翻墙软件 详细阅读下方的收视方法。</h1></a></div><br>
 
-请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </h3></a></div>
+<div><h3>请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h3></div>
+
 </tr>
 
 <hr>
