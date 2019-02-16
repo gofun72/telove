@@ -11,33 +11,28 @@
    <h1>突破封锁看世界 翻墙请先下软件</h1>
 	
 <img src="https://github.com/gofun72/telove/blob/master/img/soft/free-2.png" width="890">
-
 <hr>
-
 <table align="center" >
 	<tr>
 		<td>
 		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="890">	
 		</td>	
 <br>
-<br>
 	
-		
-		
 </tr>	
 </table>
 
 <table  width="800">
 
 <tr>
-	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门"></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg766r.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
 	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
-	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/wul-1.jpg" align="middle" width="240" alt="无界"></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.5.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wa.jpg" align="middle" width="320" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u19.02.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wul-1.jpg" align="middle" width="240" alt="无界瀏"></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wa.jpg" align="middle" width="320" alt="无界一点通"></a></td>
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wj.jpg" align="middle" width="320" alt="无界一点通"></a></td>
 </tr>
 <tr>
