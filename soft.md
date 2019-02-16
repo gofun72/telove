@@ -18,7 +18,6 @@
 		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="890">	
 		</td>	
 <br>
-	
 </tr>	
 </table>
 
@@ -36,9 +35,8 @@
 	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wj.jpg" align="middle" width="320" alt="无界一点通"></a></td>
 </tr>
 <tr>
-	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/ippo.jpg" align="middle" width="240" alt="爱博电视"></td>
-	<td></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/ippo.jpg" align="middle" width="320" height="80" alt="intdtv"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV_n.exe?raw=true"><img    src="https://github.com/gofun72/telove/blob/master/img/soft/ippo.jpg" align="middle" width="320" alt="爱博电视"></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iPPONews.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/ip-1v.jpg" align="middle" width="320" alt="爱博新闻PC"></a></td>
 </tr>
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/intd.jpg" align="middle" width="240" alt="intdtv"></td>
@@ -50,9 +48,6 @@
 
 
 <br>
-
-
-
 
 
 <table border="0" width="60%" align="center" bordercolor="gold">
@@ -80,7 +75,7 @@
 <tr>
 	<td>爱博</td>
 	<td>无</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV.exe?raw=true">桌机0944版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV_n.exe?raw=true">桌机0944c版</a></a></td>
 	
 </tr>
 
