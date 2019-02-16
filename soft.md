@@ -4,13 +4,13 @@
 
 <div align="center"><a href="http://220.141.139.204"><img src="https://github.com/gofun72/telove/blob/master/img/20190214tl.jpg" width="880"></a></div>
 
- <img src=" https://git.io/vx7Oy" width="890">
+ <img src=" https://git.io/vx7Oy" width="800">
  
  
  <div align="center">
    <h1>突破封锁看世界 翻墙请先下软件</h1>
 	
-<img src="https://github.com/gofun72/telove/blob/master/img/soft/free-2.png" width="890">
+<img src="https://github.com/gofun72/telove/blob/master/img/soft/free-2.png" width="850">
 <hr>
 <table align="center" >
 	<tr>
