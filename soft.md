@@ -40,7 +40,7 @@
 </tr>
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/intd.jpg" align="middle" width="240" alt="intdtv"></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TV.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/intd.jpg" align="middle" width="240" height="80" alt="intdtv"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TV(2.1.13).apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/intd.jpg" align="middle" width="240" height="80" alt="intdtv"></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1(2.1.13).apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/intds.jpg" align="middle" width="240" height="80" alt="intdtv"></a></td>
 	
 </tr>
@@ -81,7 +81,7 @@
 
 <tr>
 	<td>iNTD TV</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TV.apk?raw=true">2.1.12版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TV(2.1.13).apk?raw=true">2.1.13版</a></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1(2.1.13).apk?raw=true">TVsp1</a></td>
 	
 </tr>
