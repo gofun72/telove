@@ -1,6 +1,6 @@
    
     
-  <div align="center"><a href="http://220.141.139.204/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ict2.jpg" width="700"></a></div>
+  <div align="center"><a href="http://9sy.epub.vin/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ict2.jpg" width="700"></a></div>
     
  
 元宵节期间，新唐人电视台将独家播出《新唐人全球华人新年晚会——神韵晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时， 在元宵节期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</P>
@@ -82,7 +82,7 @@
  <br/>
   <hr>	
     
-  <div align="center"><a href="http://220.141.139.204"><img src="https://github.com/gofun72/telove/blob/master/img/20190218tl.jpg" width="850"></a></div>
+  <div align="center"><a href="http://111.241.93.196"><img src="https://github.com/gofun72/telove/blob/master/img/20190218tl.jpg" width="850"></a></div>
   <div align="center">
    
    <h1 class="p1"><a href="https://git.io/ming2">◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！<点击看详情></a></h1>
