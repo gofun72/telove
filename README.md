@@ -82,7 +82,7 @@
  <br/>
   <hr>	
     
-  <div align="center"><a href="http://220.141.139.204"><img src="https://github.com/gofun72/telove/blob/master/img/20190214tl.jpg" width="850"></a></div>
+  <div align="center"><a href="http://220.141.139.204"><img src="https://github.com/gofun72/telove/blob/master/img/20190218tl.jpg" width="850"></a></div>
   <div align="center">
    
    <h1 class="p1"><a href="https://git.io/ming2">◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！<点击看详情></a></h1>
