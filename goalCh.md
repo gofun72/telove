@@ -7,7 +7,7 @@
 	<h3>翻墙软件.无界.自由门.桌机版.在计算机上能看; 爱博是只能安装在桌几上看! 请大家留意此 !
 		请大家告诉大家，错过可能得等一年！</h3>
 <hr>
-<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20190218tl.jpg" width="860"></div>
+<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20190222tl.jpg" width="860"></div>
 <br/>
 <p>
 <table>
