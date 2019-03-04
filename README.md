@@ -5,7 +5,7 @@
   <div align="center"><a href="http://222.141.133.2"><img src="https://github.com/gofun72/telove/blob/master/img/20190222tl.jpg" width="850"></a></div>
   <div align="center">
    
-   <h1 class="p1"><a href="https://git.io/ming2">◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！<点击看详情></a></h1>
+   <h2 class="p1"><a href="https://git.io/ming2">◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！<点击看详情></a></h2>
    
    
 <h1> 突破封锁看世界 翻墙请先下软件</h1>
@@ -122,42 +122,7 @@
 ◆ 中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></div> 
   <br/>
 
-<div align="center"><a href="http://sy.epub.vin/sy">大陆频道播出时间如下:</a></div>  
 
-<table>
-<tr>
-	<td width="290"><div align="center">日期</td></div>  
-	<td width="290"><div align="center">时间</td></div>  
-	<td width="300"><div align="center">备注</td></div>  
-</tr>
-<tr>
-	<td><div align="center">02/19/2019 </td></div> 
-	<td><div align="center">20:00</td></div> 
-	<td><div align="center">神韵晚会  首播</td></div> 
-</tr>
-<tr>
-	<td><div align="center">02/19/2019</td></div> 
-	<td><div align="center">23:00</td></div> 
-	<td><div align="center">神韵晚会  重播</td></div> 
-	
-</tr>
-<tr>
-	<td><div align="center">02/20/2019 </td></div> 
-	<td><div align="center">8:00</td></div> 
-	<td><div align="center">2017神韵交响乐团音乐会 首播</td></div> 
-</tr>
-
-<tr>
-	<td><div align="center">02/20/2019 </td></div> 
-	<td><div align="center">14:00</td></div> 
-	<td><div align="center">2017神韵交响乐团音乐会  重播 </td></div> 
-</tr>
-
-</table>
-<hr>
-
-
- <br/>
 <hr>
 <div align="center"><h3><a href="http://sy.epub.vin/sy">收视方法</h3></a></div> 
 
