@@ -1,13 +1,8 @@
 
 
 
-<div align="center"><a href="http://9sy.epub.vin/sy"><img src="https://github.com/gofun72/telove/blob/master/img/ict2.jpg" width="750" ></div>
-	
- <div align="center"><h1><a href="http://git.io/sss">【预告】新 唐 人元宵节将播神韵晚会及音乐会</h1></a></div>
-	<h3>翻墙软件.无界.自由门.桌机版.在计算机上能看; 爱博是只能安装在桌几上看! 请大家留意此 !
-		请大家告诉大家，错过可能得等一年！</h3>
-<hr>
-<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20190222tl.jpg" width="860"></div>
+
+<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20190308tl.jpg" width="860"></div>
 <br/>
 <p>
 <table>
