@@ -9,7 +9,7 @@
 	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
 	 <div align="center"><a href="https://git.io/ssss2"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0521dontp.jpg" width="820"></a></div>
     <hr>	   
-	 <div align="center"><a href="https://git.io/waaa"><img src="https://github.com/gofun72/telove/blob/master/img/201905_21fdg.jpg" width="830"></a></div>	
+	 <div align="left"><a href="https://git.io/waaa"><img src="https://github.com/gofun72/telove/blob/master/img/201905_21fdg.jpg" width="830"></a></div>	
 <h3>【明慧网二零一九年五月二十日】法轮功是古老的上乘佛家修炼大法，以真善忍为指导，主要著作包括一本教人按照真善忍提高心性的书──《转法轮》，以及明慧圆容、动作缓慢圆的五套功法。在法轮功原著中，明文禁止杀生和自杀。因此任何以自杀、杀生来诬陷、诋毁法轮功的人，都不敢让人阅读《转法轮》等法轮功原著。因为诋毁者自己知道：尽管世道险恶，很多人的良知并未泯灭，世人一旦看明真相就不会再相信谎言。</p>
 关于杀生，李洪志先生在《转法轮》一书写道：「炼功人不能杀生。」他说：「杀生这个问题很敏感，对炼功人来说，我们要求也比较严格，炼功人不能杀生。不管是佛家、道家、奇门功法，也不管是哪一门哪一派，只要是正法修炼，都把它看的很绝对，都不能杀生，这一点是肯定的。」「你不得讲善的问题吗？真、善、忍同化宇宙特性，得讲这个善。你尽做坏事能长功吗？能祛病吗？那不正好和我们修炼人相反吗？」</p>
 李洪志先生在法轮大法辅助书籍，比如《法轮功》一书中告诉学员：「杀生是最大的做恶，做坏事，会增加很重的业力。业力是导致人得病的重要原因，当然它不一定反映出来是一种病，也可能遇到点麻烦事等等，都是业力在起作用。所以炼功人决不能做不好的事情，一切不好的行为都要产生不好的信息，会严重的影响到你的炼功问题。」</p>
