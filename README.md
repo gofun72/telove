@@ -9,7 +9,8 @@
 	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
 	 <div align="center"><a href="https://git.io/ssss2"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0521dontp.jpg" width="820"></a></div>
      <hr>
-	  
+	   <hr>
+	 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0521dontp.jpg" width="820"></a></div>
    <h2 class="p1"><a href="https://git.io/ming2">◆◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者<点击看详情></a></h2>
    
 <hr>
