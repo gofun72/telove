@@ -5,14 +5,13 @@
   <div align="center"><a href="http://118.161.52.139"><img src="https://github.com/gofun72/telove/blob/master/img/20190520tl.jpg" width="850"></a></div>
   <br>
    <hr>
-  
-  <div align="center">
-	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div>
-	
+    <div align="center">
+	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr>	
+	 <div align="center"><a href="https://git.io/ssss2"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0521dontp.jpg" width="820"></a></div>
+     <hr>
 	  
    <h2 class="p1"><a href="https://git.io/ming2">◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者！<点击看详情></a></h2>
    
-
 <hr>
 <h1> 突破封锁看世界 翻墙请先下软件</h1>
 <table align="center" >
