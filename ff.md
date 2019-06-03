@@ -1,7 +1,7 @@
 <div align="center"><a href="https://git.io/Look2"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-06-03_230206.jpg" width=650></a><br></div>
 <hr>
 
-#不是说说而已
+<h2>#不是说说而已
 #美国政府正对全球宗教迫害采实际措施
 
 在美国的一些宗教及信仰团体日前被告知，美国政府意在更加严格地审核签证申请、对人权及宗教迫害者拒发签证，包括移民签证和非移民签证（如旅游、探亲、商务等）。
@@ -46,7 +46,7 @@
 
 “这些人也都是迫害者名单范畴之内。所以就是天网恢恢，疏而不漏。”
 
-全文：http://bit.ly/2Kp773J
+全文：http://bit.ly/2Kp773J </h2>
 <hr>
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/%E7%BE%8E%E5%B0%87%E5%9A%B4%E6%A0%BC%E5%9F%B7%E6%B3%95%20%E6%8B%92%E8%BF%AB%E5%AE%B3%E4%BF%A1%E4%BB%B0%E8%80%85%E5%85%A5%E5%A2%83.jpg" width=500></a><br></div>
 
