@@ -1,4 +1,5 @@
-
+<div align="center"><a href="https://git.io/Look2"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-06-03_230206.jpg" width=880></a><br></div>
+<hr>
 
 #不是说说而已
 #美国政府正对全球宗教迫害采实际措施
