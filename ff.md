@@ -47,6 +47,7 @@
 “这些人也都是迫害者名单范畴之内。所以就是天网恢恢，疏而不漏。”
 
 全文：http://bit.ly/2Kp773J </h2>
+<h1>回首頁： https://git.io/Look2 </h1>
 <hr>
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/%E7%BE%8E%E5%B0%87%E5%9A%B4%E6%A0%BC%E5%9F%B7%E6%B3%95%20%E6%8B%92%E8%BF%AB%E5%AE%B3%E4%BF%A1%E4%BB%B0%E8%80%85%E5%85%A5%E5%A2%83.jpg" width=500></a><br></div>
 
