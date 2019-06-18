@@ -2,7 +2,7 @@
 
 <hr>
 
-<div align="center"><a href="http://118.161.138.80"><img src="https://github.com/gofun72/telove/blob/master/img/20190613st.jpg" width="880"></a></div>
+<div align="center"><a href="http://114.43.35.116"><img src="https://github.com/gofun72/telove/blob/master/img/20190618tl.jpg" width="880"></a></div>
 
  <img src=" https://git.io/vx7Oy" width="800">
  
@@ -26,7 +26,7 @@
 <tr>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg766r.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
 	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="240" alt="自由门安卓"></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="240" alt="自由门桌机"></a> </td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg768p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="240" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
@@ -61,7 +61,7 @@
 <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_android_3.2.zip?raw=true">3.2版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg766r.exe?raw=true">7.66版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg768p.exe?raw=true">7.68p版</a></a></td>
 	
 </tr>
 
