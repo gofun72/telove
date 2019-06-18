@@ -2,7 +2,7 @@
    
 
     
-  <div align="center"><a href="http://118.161.138.80"><img src="https://github.com/gofun72/telove/blob/master/img/20190613st.jpg" width="850"></a></div>
+  <div align="center"><a href="http://114.43.35.116"><img src="https://github.com/gofun72/telove/blob/master/img/20190618tl.jpg" width="850"></a></div>
   <br>
    <hr>
    <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/forfor.md"><img src="https://github.com/gofun72/telove/blob/master/img/Disappear.jpg" width="700"></a></div>
@@ -41,7 +41,7 @@
 		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="890">	
 		</td>	
 <br>
-		
+	
 </tr>	
 </table>
 
@@ -50,7 +50,7 @@
 <tr>
 	<td><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门"></td>
 	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="320" alt="自由门安卓"></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg768p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="320" alt="自由门桌机"></a> </td>
 </tr>
 
 <tr>
@@ -86,7 +86,7 @@
 <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_android_3.2.zip?raw=true">3.2版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_7.64_(0109)_desktop.zip?raw=true">7.64版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg768p.exe?raw=true">7.68p版</a></a></td>
 	
 </tr>
 
@@ -127,7 +127,7 @@
    
    <br>
    <hr>
-   <div align="center"><a href="http://118.161.138.80/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/Sy-22_1.jpg"    width="850"></a></div>
+   <div align="center"><a href="http://114.43.35.116/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/Sy-22_1.jpg"    width="850"></a></div>
    
    
 由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时， 在元宵节期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</P>
