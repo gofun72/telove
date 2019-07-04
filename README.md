@@ -2,7 +2,7 @@
    
 
     
-  <div align="center"><a href="http://36.227.96.190"><img src="https://github.com/gofun72/telove/blob/master/img/20190630tl.jpg" width="850"></a></div>
+  <div align="center"><a href="http://220.141.128.139"><img src="https://github.com/gofun72/telove/blob/master/img/20190704st.jpg" width="850"></a></div>
   <br>
    <hr>
    <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/forfor.md"><img src="https://github.com/gofun72/telove/blob/master/img/Disappear.jpg" width="700"></a></div>
@@ -127,7 +127,7 @@
    
    <br>
    <hr>
-   <div align="center"><a href="http://36.227.96.190/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/Sy-22_1.jpg"    width="850"></a></div>
+   <div align="center"><a href="http://220.141.128.139/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/Sy-22_1.jpg"    width="850"></a></div>
    
    
 由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时， 在元宵节期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</P>
