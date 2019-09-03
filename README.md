@@ -29,6 +29,7 @@
 二零一九年五月二十日</h2>
 
  <hr>
+   <div align="center"><a href="https://github.com/goodabc/GCC/blob/master/README.md"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0903return.jpg" width="800"></a></div>
   	
 <hr>
 	 
