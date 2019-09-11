@@ -7,9 +7,7 @@
    <hr>
    <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/forfor.md"><img src="https://github.com/gofun72/telove/blob/master/img/Disappear.jpg" width="700"></a></div>
   <br>
-   <hr>
-         <div align="center">
-	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
+  <hr>
 	 <div align="center"><a href="https://git.io/ssss2"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0521dontp.jpg" width="750"></a></div>
     <hr>	   
 	 <div align="left"><a href="https://git.io/waaa"><img src="https://github.com/gofun72/telove/blob/master/img/201905_21fdg.jpg" width="830"></a></div>	
@@ -34,7 +32,9 @@
 <hr>
 	 
    <h2 class="p1"><a href="https://git.io/ming2">◆◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者<点击看详情></a></h2>
-   
+    <hr>
+         <div align="center">
+	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
 <hr>
 <h1> 突破封锁看世界 翻墙请先下软件</h1>
 <table align="center" >
