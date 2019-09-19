@@ -8,6 +8,10 @@
    <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/forfor.md"><img src="https://github.com/gofun72/telove/blob/master/img/Disappear.jpg" width="700"></a></div>
   <br>
   <hr>
+   <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md#a25-1"><img src="https://github.com/gofun72/telove/blob/master/img/2019-09compassionp.jpg" width=650"></a></div>
+  
+  <br>
+  <hr>  
 	 <div align="center"><a href="https://git.io/ssss2"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0521dontp.jpg" width="750"></a></div>
     <hr>	   
 	 <div align="left"><a href="https://git.io/waaa"><img src="https://github.com/gofun72/telove/blob/master/img/201905_21fdg.jpg" width="830"></a></div>	
