@@ -2,7 +2,7 @@
 
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191117tl.jpg" width="800">	
 
- <div align="right"><a href="http://git.io/goal-2" style="font-size:24px;color:blue;">前往看更多真相</a></div>
+ <div align="right"><a href="https://git.io/mbbasn" style="font-size:24px;color:blue;">前往看更多真相</a></div>
 
 
 <div align="center"><h1>手机上好看的电子书（ePub版）</h1></div>
