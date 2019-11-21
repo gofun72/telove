@@ -2,7 +2,7 @@
 
 
 
-<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191121tl.jpg"width="650"></div>
+<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191121tl.jpg"width="700"></div>
 <br/>
 <p>
 <table>
@@ -83,4 +83,4 @@
 	<td><center>&nbsp;</center></td>
 </tr>
 </table>
-<div class="center"><a href="https://git.io/mbbasn"><img src="https://github.com/gofun72/telove/blob/master/img/20181009share.jpg" width="860"></div>
+<div class="center"><a href="https://git.io/mbbasn"><img src="https://github.com/gofun72/telove/blob/master/img/20181009share.jpg" width="760"></div>
