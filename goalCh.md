@@ -2,7 +2,7 @@
 
 
 
-<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191121tl.jpg" width="650"></div>
+<div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191121tl.jpg"width="650"></div>
 <br/>
 <p>
 <table>
