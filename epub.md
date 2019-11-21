@@ -1,6 +1,6 @@
 
 
-<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191117tl.jpg" width="800">	
+<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191121tl.jpg" width="700">	
 
  <div align="right"><a href="https://git.io/mbbasn" style="font-size:24px;color:blue;">前往看更多真相</a></div>
 
