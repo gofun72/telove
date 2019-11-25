@@ -12,7 +12,7 @@
   
   <br>
   <hr>  
-	 <div align="center"><a href="https://git.io/zfzfzf"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0521dontp.jpg" width="750"></a></div>
+	 <div align="center"><a href="https://git.io/zfzfzf"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0521dontp.jpg" width="700"></a></div>
     <hr>	   
 	 <div align="left"><a href="https://git.io/waaa"><img src="https://github.com/gofun72/telove/blob/master/img/201905_21fdg.jpg" width="830"></a></div>	
 <h2>【明慧网二零一九年五月二十日】法轮功是古老的上乘佛家修炼大法，以真善忍为指导，主要著作包括一本教人按照真善忍提高心性的书──《转法轮》，以及明慧圆容、动作缓慢圆的五套功法。在法轮功原著中，明文禁止杀生和自杀。因此任何以自杀、杀生来诬陷、诋毁法轮功的人，都不敢让人阅读《转法轮》等法轮功原著。因为诋毁者自己知道：尽管世道险恶，很多人的良知并未泯灭，世人一旦看明真相就不会再相信谎言。</p>
@@ -133,7 +133,7 @@
    <br>
    <hr>
    <div align="center"><h1>◆◆ 失落的宝藏——您在中国大陆看不到的演出 ◆◆</h1>
-   <div align="center"><a href="http://220.141.129.66/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019-sy-2020.jpg"    width="700"></a></div>
+   <div align="center"><a href="http://111.241.95.86/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019-sy-2020.jpg"    width="700"></a></div>
    
    
 由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时， 在元宵节期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</P>
