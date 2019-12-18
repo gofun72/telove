@@ -11,8 +11,8 @@
 有着百年历史的罗曼德管弦乐团的首席小提琴家伯格丹‧兹沃特安卢（Bogdan Zvoristeanu）赞叹：「音乐极为感人，古今结合的乐器演奏将我们带入另外的时空，带到那遥远的、非常干净、非常纯洁、充满真相的地方。」
 应观众要求，新唐人今年圣诞、新年期间将再次播出的《2018神韵交响乐团音乐会》，各频道播出时间：
 
-<IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-18shen1.jpg" width=600></a><br></div>
-<IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-18shen2.jpg" width=600></a><br></div>
+<IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-18shen1.jpg" width=500></a><br></div>
+<IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-18shen2.jpg" width=500></a><br></div>
 <hr>
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=880></div>	
 　<hr>
