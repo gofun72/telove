@@ -13,10 +13,10 @@
 
 <IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-18shen1.jpg" width=600></a><br></div>
 <IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-18shen2.jpg" width=600></a><br></div>
-
 <hr>
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=880></div>	
 　<hr>
+ 
 <br><br>
   <div align="center"><a href="http://220.141.123.238/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019symusic.jpg"></a></div>	
 <h3>邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</h3>
