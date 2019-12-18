@@ -1,7 +1,7 @@
 
 
 <IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-18shen.jpg" width=800></a><br></div>
-<div align="center">
+
 <a href="http://220.141.123.238/sy/"> <h2>【预告】新唐人圣诞新年期间播放神韵交响乐</h2></div></a><br>
 
 <h3>【大纪元2019年12月17日讯】2019年圣诞节和新年期间，新唐人电视台将独家播出《2018神韵交响乐团音乐会》，即分别在纽约、休斯顿、美西、大陆、欧洲频道播放。同时，新唐人网站（www.ntdtv.com）   首页直播窗口和Roku也同步播放，时长90分钟。
