@@ -11,7 +11,8 @@
 应观众要求，新唐人今年圣诞、新年期间将再次播出的《2018神韵交响乐团音乐会》，播出时间如下（均为当地时间）：
 
 <table border="1" cellspacing="10" cellpadding="3">
-<div align="center"><h1>《2018神韵交响乐团音乐会》大陆播出时间<p></h1></div>
+	<div align="center"><h2>2019圣诞节期间<p></h2></div>
+<div align="center"><h2>《2018神韵交响乐团音乐会》大陆播出时间<p></h2></div>
 <tr>
 	<td width=293;>日期</td>
 	<td width=293;>时间</td>
@@ -36,7 +37,7 @@
 </table>
 
 <div align="center"><h2>2020新年期间<p></h2></div>
-<div align="center"><h1>《2018神韵交响乐团音乐会》大陆播出时间<p></h1></div>
+<div align="center"><h2>《2018神韵交响乐团音乐会》大陆播出时间<p></h2></div>
 
 <table>
 	
