@@ -153,7 +153,7 @@
 
 
 <hr>
-<div align="center"><h3><a href="http://201904sy.epub.vin/sy">收视方法</h3></a></div> 
+<div align="center"><h3><a href="http://36.228.2.212/sy/">收视方法</h3></a></div> 
 
 <table>
 	
