@@ -38,7 +38,7 @@
          <div align="center">
 	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
 		 
- <div align="right"><img src="https://github.com/gofun72/telove/blob/master/img/20191219shenfunn.jpg" width="700"></a></div>
+ <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191219shenfunn.jpg" width="750"></a></div>
 		 
 <hr>
 <h1> 突破封锁看世界 翻墙请先下软件</h1>
