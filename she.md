@@ -62,7 +62,7 @@
 
 
 <hr>
-<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=700></div>	
+<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=900></div>	
 　<hr>
  <br><br>
   <div align="center"><a href="http://220.141.123.238/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019symusic.jpg"></a></div>	
