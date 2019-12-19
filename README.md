@@ -30,15 +30,16 @@
 明慧编辑部
 二零一九年五月二十日</h2>
 
- <hr>
-   <div align="center"><a href="https://ppt.cc/fJU94x"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0903return.jpg" width="800"></a></div>
-  	
+ 	
 <hr>
-	 
+ 
    <h2 class="p1"><a href="https://git.io/bb99bbss">◆◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者<点击看详情></a></h2>
     <hr>
          <div align="center">
 	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
+		 
+ <div align="right"><img src="https://github.com/gofun72/telove/blob/master/img/20191219shenfun.jpg" width="700"></a></div>
+		 
 <hr>
 <h1> 突破封锁看世界 翻墙请先下软件</h1>
 <table align="center" >
@@ -86,18 +87,7 @@
 
 </table>
 
-
-
- <div align="right"><a href="https://github.com/3fmd/gm/blob/master/epub.md" style="font-size:24px;color:blue;"><img src="https://github.com/gofun72/telove/blob/master/img/2018-10-07_qr%20to.jpg" width="880"></a></div>
- 
- 
- 
- 
   
-   
-   
-   
-   
    
    <br>
    <hr>
@@ -141,6 +131,9 @@
 <tr>
 <td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 ◆  </h3</a></td>
 </tr>
- 
-</table>
+ </table>
  <br/>
+  <hr>
+   <div align="center"><a href="https://ppt.cc/fJU94x"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0903return.jpg" width="800"></a></div>
+ 
+
