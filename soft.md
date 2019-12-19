@@ -33,7 +33,7 @@
 
 <tr>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u19.02.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wul-1.jpg" align="middle" width="240" alt="无界瀏"></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true" align="middle" width="240" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wa.jpg" align="middle" width="240" alt="无界一点通"></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u113(English).apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wj.jpg" align="middle" width="240" alt="无界一点通"></a></td>
 </tr>
 <tr>
