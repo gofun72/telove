@@ -45,15 +45,9 @@
 	<tr><td>
 		<img src="https://github.com/gofun72/telove/blob/master/img/soft/st.jpg" width="890">	
 		</td>	
-<br>
-	
 </tr>	
 </table>
-
-
 <br>
-
-
 <table border="0" width="60%" align="center" bordercolor="gold">
   
 <tr>
