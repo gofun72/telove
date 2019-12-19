@@ -24,15 +24,17 @@
 <table  width="800">
 
 <tr>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg766r.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg769r.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
 	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="240" alt="自由门安卓"></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg768p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="240" alt="自由门桌机"></a> </td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg769p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="240" alt="自由门桌机"></a> </td>
+
+	
 </tr>
 
 <tr>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u19.02.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wul-1.jpg" align="middle" width="240" alt="无界瀏"></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wa.jpg" align="middle" width="240" alt="无界一点通"></a></td>
-	<td><a href="https://github.com/goodabc/GCC/blob/master/GCC/fanQing/wujieliulan_desktop_17.04_20171112/u1704.zip?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wj.jpg" align="middle" width="240" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true" align="middle" width="240" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u113(English).apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wj.jpg" align="middle" width="240" alt="无界一点通"></a></td>
 </tr>
 <tr>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV_n.exe?raw=true"><img    src="https://github.com/gofun72/telove/blob/master/img/soft/ippo.jpg" align="middle" width="240" alt="爱博电视"></td>
@@ -61,7 +63,7 @@
 <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_android_3.2.zip?raw=true">3.2版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg768p.exe?raw=true">7.68p版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg769p.exe?raw=true">7.69p版</a></a></td>
 	
 </tr>
 
