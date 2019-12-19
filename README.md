@@ -39,6 +39,33 @@
 	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
 		 
  <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191219shenfunn.jpg" width="750"></a></div>
+ <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P>
+
+◆<div align="center"><h3>请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h3></div> 
+  <br/>
+
+<hr>
+<div align="center"><h3><a href="http://36.228.2.212/sy/">收视方法</h3></a></div> 
+
+<table>
+	
+<tr>
+<td width="450">1、大陆观众可通过韩星五号的新唐人中国频道收看。</td>
+<td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
+</tr>
+	
+<tr>
+	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
+	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
+	
+</tr>
+</table>
+<table>
+<tr>
+<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 ◆  </h3</a></td>
+</tr>
+ </table>
+ <br/>
 		 
 <hr>
 <h1> 突破封锁看世界 翻墙请先下软件</h1>
@@ -105,34 +132,7 @@
 <p>
 <br><hr>
 <a href="http://sy.epub.vin/sy">网站不播出，只限于电视收看。Ruko平台不播出2019全球华人新年晚会，将播出2017神韵交响乐团音乐会。</a></P>
-<div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P>
 
-◆ 中国大陆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：ntdtv.com/gb/television  </a></div> 
-  <br/>
-
-
-<hr>
-<div align="center"><h3><a href="http://36.228.2.212/sy/">收视方法</h3></a></div> 
-
-<table>
-	
-<tr>
-<td width="450">1、大陆观众可通过韩星五号的新唐人中国频道收看。</td>
-<td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
-</tr>
-	
-<tr>
-	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
-	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
-	
-</tr>
-</table>
-<table>
-<tr>
-<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆ 推荐通过爱博电视收看新唐人中国频道，请选用中国频道400 ◆  </h3</a></td>
-</tr>
- </table>
- <br/>
   <hr>
    <div align="center"><a href="https://ppt.cc/fJU94x"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0903return.jpg" width="800"></a></div>
  
