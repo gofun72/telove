@@ -14,25 +14,25 @@
 	<div align="center"><h2>2019圣诞节期间<p></h2></div>
 <div align="center"><h2>《2018神韵交响乐团音乐会》大陆播出时间<p></h2></div>
 <tr>
-	<td width=293;>日期</td>
-	<td width=293;>时间</td>
-	<td width=293;>备注</td>
+	<td width=250;>日期</td>
+	<td width=300;>时间</td>
+	<td width=300;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>星期二  12/24/2019     Tue</td>
-	<td width=293;>20:30</td>
-	<td width=293;>《神韵交响乐团音乐会》首播</td>
+	<td width=250;>星期二  12/24/2019     Tue</td>
+	<td width=250;>20:30</td>
+	<td width=300;>《神韵交响乐团音乐会》首播</td>
 </tr>		 
 
 <tr>
-	<td width=293;>星期三  12/25/2019    Wed</td>
-	<td width=293;>9:30</td>
-	<td width=293;>《神韵交响乐团音乐会》回放</td>
+	<td width=250;>星期三  12/25/2019    Wed</td>
+	<td width=300;>9:30</td>
+	<td width=300;>《神韵交响乐团音乐会》回放</td>
 </tr>		
 	<tr>
-	<td width=293;>星期三  12/25/2019    Wed</td>
-	<td width=293;>14:00</td>
-	<td width=293;>《神韵交响乐团音乐会》回放</td>
+	<td width=250;>星期三  12/25/2019    Wed</td>
+	<td width=300;>14:00</td>
+	<td width=300;>《神韵交响乐团音乐会》回放</td>
 </tr>	   
 </table>
 
@@ -42,20 +42,20 @@
 <table>
 	
 <tr>
-	<td width=293;>日期</td>
-	<td width=293;>时间</td>
-	<td width=293;>备注</td>
+	<td width=250;>日期</td>
+	<td width=300;>时间</td>
+	<td width=300;>备注</td>
 </tr>	
 <tr>
-	<td width=293;>星期二  12/31/2019     Tue</td>
-	<td width=293;>20:00</td>
-	<td width=293;>《神韵交响乐团音乐会》首播</td>
+	<td width=250;>星期二  12/31/2019     Tue</td>
+	<td width=300;>20:00</td>
+	<td width=300;>《神韵交响乐团音乐会》首播</td>
 </tr>		 
 
 <tr>
-	<td width=293;>星期三  1/1/2020    Wed</td>
-	<td width=293;> 14:00</td>
-	<td width=293;>《神韵交响乐团音乐会》回放</td>
+	<td width=250;>星期三  1/1/2020    Wed</td>
+	<td width=300;> 14:00</td>
+	<td width=300;>《神韵交响乐团音乐会》回放</td>
 </tr>		
 </table>
 
