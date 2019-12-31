@@ -2,7 +2,7 @@
    
 
     
-  <div align="center"><a href="http://111.241.95.80"><img src="https://github.com/gofun72/telove/blob/master/img/20191227tl.jpg" width="650"></a></div>
+  <div align="center"><a href="http://220.141.128.109"><img src="https://github.com/gofun72/telove/blob/master/img/20191231st.jpg" width="650"></a></div>
   <br>
    <hr>
    <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/forfor.md"><img src="https://github.com/gofun72/telove/blob/master/img/Disappear.jpg" width="700"></a></div>
@@ -44,7 +44,7 @@
 <div align="center"><h3><a href="https://www.ntdtv.com/gb/television">◆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h3></div> 
   <br/>
 <hr>
-<div align="center"><h3><a href="http://111.241.95.80/sy/">收视方法</h3></a></div> 
+<div align="center"><h3><a href="http://220.141.128.109/sy/">收视方法</h3></a></div> 
 <table>
 	
 <tr>
