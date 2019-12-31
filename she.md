@@ -2,7 +2,7 @@
 
 <IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-18shen.jpg" width=800></a><br></div><br>
 
-<a href="http://220.141.128.160/sy/"> <h2>【预告】新唐人圣诞新年期间播放神韵交响乐</h2></div></a>
+<a href="http://220.141.128.109/sy/"> <h2>【预告】新唐人圣诞新年期间播放神韵交响乐</h2></div></a>
 <h3>【大纪元2019年12月17日讯】2019年圣诞节和新年期间，新唐人电视台将独家播出《2018神韵交响乐团音乐会》，即分别在纽约、休斯顿、美西、大陆、欧洲频道播放。同时，新唐人网站（www.ntdtv.com）   首页直播窗口和Roku也同步播放，时长90分钟。</p>
 神韵交响乐是风靡全球的神韵艺术团原创作品，结合了东西方正统音乐的精髓，以西方管弦乐为基奠烘托中国乐器的特色，再现中华音乐传统、重现失传的美声唱法，每年都推出全新的原创曲目，带给观众盛大的音乐飨宴，好评如潮。
 <p>
@@ -65,7 +65,7 @@
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=900></div>	
 　<hr>
  <br><br>
-  <div align="center"><a href="http://111.241.95.80/mp4/news668/2016/02/syMusic480.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2019symusic.jpg"></a></div>	
+  <div align="center"><a href="http://220.141.128.109/mp4/news668/2016/02/syMusic480.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2019symusic.jpg"></a></div>	
 <h3>邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</h3>
 
 <h3>五千年来，神传文化在中国溢彩流光。近代以来，这一人类的瑰宝几近失落。通过动人心魄的音乐与舞蹈，神韵令神传文化再现辉煌。神韵艺术团自2006年在全球巡演以来，迄今逾百万人观看，受到各国民众的热烈欢迎，爆满加坐成常态。</p>
