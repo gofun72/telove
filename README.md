@@ -129,6 +129,6 @@
 <p>
 <br><hr>
  
-   <div align="center"><a href="https://ppt.cc/fJU94x"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0903return.jpg" width="800"></a></div>
+   <div align="center"><a href="://git.io/epubc"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0903return.jpg" width="800"></a></div>
  
 
