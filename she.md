@@ -56,7 +56,7 @@
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=900></div>	
 　<hr>
  <br><br>
-  <div align="center"><a href="http://220.141.128.109/mp4/news668/2016/02/syMusic480.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2019symusic.jpg"></a></div>
+  <div align="center"><a href="http://220.141.125.164/mp4/news668/2016/02/syMusic480.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2019symusic.jpg"></a></div>
   
   
 <h3>邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</h3>
