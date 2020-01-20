@@ -10,7 +10,7 @@
 神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2019年演出”，对中国大陆播出的是“神韵艺术团2020年演出”。网站不播出，只限于电视收看。Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵交响乐团音乐会。</p>
 <div align="center"><h2>《神韵晚会播出时间如下（大陆频道播出时间）》<p></h2></div>
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020sy1.jpg" width=700></a><br></div><br><hr>
-<div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/she  <<随时掌握免翻即时视频:http://220.141.125.164 >> </a><br></div><br><hr>
+<div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/she  <<随时掌握免翻即时视频:http://220.141.125.164 </a><br></div><br><hr>
 
 
 <div align="center"><h2><a href="http://j20.xyrs.bid/mp4/news668/2019/01/sy8.mp4">请大家告诉大家，错过可能得等一年！</h2></P>
