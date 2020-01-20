@@ -10,22 +10,20 @@
 <div align="center"><h2>《神韵晚会播出时间如下（大陆频道播出时间）》<p></h2></div>
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020sy1.jpg" width=700></a><br></div><br><hr>
 
-<div align="center"><h3><a href="http://201904sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</P>
+<div align="center"><h3><a href="http://j20.xyrs.bid/mp4/news668/2019/01/sy8.mp4">请大家告诉大家，错过可能得等一年！</P>
 <p></p>
 
 <div align="center">
 <h1><a href="https://github.com/gofun72/telove/blob/master/soft.md">请大家告诉大家，并请先下载翻墙软件 详细阅读下方的收视方法。</h1></a></div><br>
 
-<div><h3>请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h3></div>
-
-</tr>
-
+<h3>✪✪ 特别特别推荐这款(爱博电视桌机版)
+ <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
+  <br><br/>
 
 
    <td>大陆观众可通过韩星五号的新唐人中国频道收看</td>
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
 </tr>
-	
 <tr>
     <td>通过机顶盒的INTD TV 上的新唐人中国频道</td>
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1(2.1.13).apk?raw=true'>INTD TV </a></td>
@@ -39,7 +37,6 @@
     <td>推荐使用爱博电视新唐人中国频道</td>
     <td><a href="https://github.com/gofun72/telove/blob/master/mp4/shen/ippotvm.mp4?raw=true">爱博教学</a>
 
-
 </td>
 </tr>
 <tr>
@@ -48,13 +45,12 @@
 </tr>
 </table>
 
+<div><h3>请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h3></div>
+
+</tr>
 
 
 
-
-<h3>✪✪ 特别特别推荐这款(爱博电视桌机版)
- <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
-  <br><br/>
 
 <hr>
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=900></div>	
