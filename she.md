@@ -1,6 +1,6 @@
 
 
-<div align="center"><a href="http://j20.xyrs.bid/sy/"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width=800></a><br></div><br>
+<div align="center"><a href="http://j20.xyrs.bid/sy/"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width=850></a><br></div><br>
 
 <a href="http://j20.xyrs.bid/sy/"> <h2>【预告】新唐人中国新年期间独家播出2020全球华人新年晚会</h2></div></a>
 <h3>【新唐人北京时间2020年01月20日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</p>
@@ -8,8 +8,7 @@
 
 神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2019年演出”，对中国大陆播出的是“神韵艺术团2020年演出”。网站不播出，只限于电视收看。Ruko平台不播出2020全球华人新年晚会，将播出2017和2018年神韵交响乐团音乐会。</p>
 <div align="center"><h2>《神韵晚会播出时间如下（大陆频道播出时间）》<p></h2></div>
-
-<IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020sy1.jpg" width=700></a><br></div><br><hr>
+<div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020sy1.jpg" width=700></a><br></div><br><hr>
 
 <div align="center"><h3><a href="http://201904sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</P>
 <p></p>
