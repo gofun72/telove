@@ -1,6 +1,6 @@
 
 
-<IMG SRC="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width=800></a><br></div><br>
+<div align="center"><a href="http://j20.xyrs.bid/sy/"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width=800></a><br></div><br>
 
 <a href="http://j20.xyrs.bid/sy/"> <h2>【预告】新唐人中国新年期间独家播出2020全球华人新年晚会</h2></div></a>
 <h3>【新唐人北京时间2020年01月20日讯】新唐人电视台新年期间将独家播出《新唐人全球华人新年晚会》，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。</p>
