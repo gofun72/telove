@@ -38,15 +38,14 @@
    <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
 </tr>
 
-
-<div><h4>请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h4></div>
+<div>请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television </div>
 
 
 
 
 <hr>
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=900></div>	
-　<hr>
+　
  <br><br>
   <div align="center"><a href="http://220.141.125.164/mp4/news668/2016/02/syMusic480.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2019symusic.jpg"></a></div>
   
