@@ -37,13 +37,11 @@
    <td>点击下载翻墙软件集成包</td>
    <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
 </tr>
-
+</p>
 <div>请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television </div>
 
 
 
-
-<hr>
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=900></div>	
 　
  <br><br>
