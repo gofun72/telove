@@ -21,7 +21,7 @@
   <br><br/>
 
 
-   <td>大陆观众可通过韩星五号的新唐人中国频道收看</td>
+   <td>大陆观众朋友必需透过爱博电视 或 可通过韩星五号的新唐人中国频道收看</td>
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
 </tr>
 <tr>
