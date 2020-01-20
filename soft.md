@@ -2,7 +2,7 @@
 
 <hr>
 
-<div align="center"><a href="http://220.141.125.164"><img src="" width="700"></a></div>
+
 
  <img src=" https://git.io/vx7Oy" width="800">
  
