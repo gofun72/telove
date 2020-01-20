@@ -21,7 +21,7 @@
   <br><br/>
 
 
-   <td>大陆观众朋友必需透过爱博电视 或 可通过韩星五号的新唐人中国频道收看</td>
+   <td><h2>✪✪大陆观众朋友必需透过爱博电视 或 可通过韩星五号的新唐人中国频道收看<h2></td>
     <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td>
 </tr>
 <tr>
@@ -45,7 +45,7 @@
 </tr>
 </table>
 
-<div><h3>请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h3></div>
+<div><h4>请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h4></div>
 
 </tr>
 
