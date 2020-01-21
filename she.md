@@ -15,9 +15,7 @@
 
 <div align="center"><h2><a href="http://j20.xyrs.bid/mp4/news668/2019/01/sy8.mp4">请大家告诉大家，错过可能得等一年！</h2></P>
 
-
-<div align="center">
-<h3><a href="https://github.com/gofun72/telove/blob/master/soft.md">请大家告诉大家，并请先下载翻墙软件详细阅读下方的收视方法。</h3></a></div><br>
+<br>
 
 <td><h3>✪✪大陆观众朋友必需透过爱博电视 或 可通过韩星五号的新唐人中国频道收看
 	<a href="https://github.com/gofun72/telove/blob/master/she-1.md"> 播出参数 </a></td></h3>
@@ -28,7 +26,8 @@
 <hr>
    
 	
-
+<div align="center">
+<h3><a href="https://github.com/gofun72/telove/blob/master/soft.md">请大家告诉大家，并请先下载翻墙软件详细阅读下方的收视方法。</h3></a></div>
 <div align="left">
    <td>■通过机顶盒的INTD TV 上的新唐人中国频道</td>
    <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1(2.1.13).apk?raw=true'>INTD TV </a></td><br/>
