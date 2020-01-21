@@ -39,7 +39,7 @@
          <div align="center">
 	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
 		 
- <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20191219shenfunn.jpg" width="750"></a></div><br/>
+ <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width="650"></a></div><br/>
  <div align="center"><h3><a href="http://sy.epub.vin/sy">请大家告诉大家，错过可能得等一年！</h3></P><br/>
 
 <div align="center"><h3><a href="https://www.ntdtv.com/gb/television">◆请通过翻墙软件自由门、无界浏览或iNTD TV 观看 ，并请锁定中国频道这个网址：https://www.ntdtv.com/gb/television  </h3></div> 
