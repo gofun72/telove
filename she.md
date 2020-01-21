@@ -14,17 +14,19 @@
 
 
 <div align="center"><h2><a href="http://j20.xyrs.bid/mp4/news668/2019/01/sy8.mp4">请大家告诉大家，错过可能得等一年！</h2></P>
-<p></p>
+
 
 <div align="center">
-<h2><a href="https://github.com/gofun72/telove/blob/master/soft.md">请大家告诉大家，并请先下载翻墙软件详细阅读下方的收视方法。</h2></a></div><br>
+<h3><a href="https://github.com/gofun72/telove/blob/master/soft.md">请大家告诉大家，并请先下载翻墙软件详细阅读下方的收视方法。</h3></a></div><br>
 
+<td><h3>✪✪大陆观众朋友必需透过爱博电视 或 可通过韩星五号的新唐人中国频道收看
+	<a href="https://github.com/gofun72/telove/blob/master/she-1.md"> 播出参数 </a></td></h3>
+	
 <h3>✪✪ 特别特别推荐这款(爱博电视桌机版)
  <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
-  <br/>
 
-   <td><h2>✪✪大陆观众朋友必需透过爱博电视 或 可通过韩星五号的新唐人中国频道收看<h2>
-	<a href="https://github.com/gofun72/telove/blob/master/she-1.md"> 播出参数 </a></td><br/>
+<hr>
+   
 	
 
 <div align="left">
