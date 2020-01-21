@@ -23,9 +23,11 @@
  <a href="https://github.com/j168/j688/blob/master/fq/Green_iPPOTV_n.exe?raw=true"><img src="https://github.com/j168/j688/blob/master/menu/ip.jpg" width="80"></a> 平时可以收看新唐人电视的视频，收听希望之声国际广播电台的广播。</h3>
   <br/>
 
-<tr>
-   <td><h2>✪✪大陆观众朋友必需透过爱博电视 或 可通过韩星五号的新唐人中国频道收看<h2><a target="_blank" href='https://github.com/gofun72/telove/blob/master/she-1.md'>播出参数</a></td><br/>
+   <td><h2>✪✪大陆观众朋友必需透过爱博电视 或 可通过韩星五号的新唐人中国频道收看<h2>
+	<a href="https://github.com/gofun72/telove/blob/master/she-1.md"> 播出参数 </a></td><br/>
+	
 
+<div align="left">
    <td>■通过机顶盒的INTD TV 上的新唐人中国频道</td>
    <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/soft/iNTD_TVsp1(2.1.13).apk?raw=true'>INTD TV </a></td><br/>
 
@@ -37,7 +39,7 @@
 
    <td>■点击下载翻墙软件集成包</td>
    <td><a target="_blank" href='https://github.com/gofun72/telove/blob/master/ff.md'>翻墙软件下载教学</a></td>
-</tr>
+</tr></div>
 </p>
 
 
