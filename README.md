@@ -39,8 +39,8 @@
          <div align="center">
 	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
 		 
- <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width="600"></a></div><br/>
- <div align="center"><h3><a href="http://git.io/she"> 请大家告诉大家，错过可能得等一年！((点击详看播出时间))</h3></P><br/>
+ <div align="center"><a href="http://j120.xyrs.bid/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width="600"></a></div><br/>
+ <div align="center"><h3><a href="http://git.io/she"> 请大家告诉大家，错过可能得等一年！((点击详看播出时间))</a></h3></P><br/>
 
   <br/>
 <hr>
