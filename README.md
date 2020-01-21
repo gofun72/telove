@@ -48,7 +48,7 @@
 <table>
 	
 <tr>
-<td width="450">1、大陆观众可通过韩星五号的新唐人中国频道收看。</td>
+<td width="450">1、大陆观众可通过韩星五A号的新唐人中国频道收看 (播出参数)。</td>
 <td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
 </tr>
 	
@@ -60,7 +60,7 @@
 </table>
 <table>
 <tr>
-<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆推荐通过爱博电视收看新唐人中国频道，请选用中国频道400◆  </h3</a></td>
+<td width="880"><h3 align="center"><a href="https://github.com/sodore/dsds/blob/master/dong/Green_iPPOTV.exe?raw=true">◆请大陆朋友必需透过使用"爱博电视收看新唐人中国频道"和"韩星五A号"请选用中国频道400◆  </h3</a></td>
 </tr>
  </table>
 	 
