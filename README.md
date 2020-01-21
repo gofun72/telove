@@ -9,7 +9,7 @@
    <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/forfor.md"><img src="https://github.com/gofun72/telove/blob/master/img/Disappear.jpg" width="700"></a></div>
   <br>
   <hr>
-   <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md#a25-1"><img src="https://github.com/gofun72/telove/blob/master/img/2019-09compassionp.jpg" width=650"></a></div>
+   <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md#a25-1"><img src="https://github.com/gofun72/telove/blob/master/img/2019-09compassionp.jpg" width=660"></a></div>
   
   <br>
   <hr>  
@@ -39,7 +39,7 @@
          <div align="center">
 	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
 		 
- <div align="center"><a href="http://j120.xyrs.bid/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width="600"></a></div><br/>
+ <div align="center"><a href="http://j120.xyrs.bid/sy/http://j120.xyrs.bid/mp4/news668/2020/01/sy8.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width="600"></a></div><br/>
  <div align="center"><h3><a href="http://git.io/she"> 请大家告诉大家，错过可能得等一年！((点击详看播出时间))</a></h3></P><br/>
 
   <br/>
