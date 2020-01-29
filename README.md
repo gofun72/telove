@@ -2,7 +2,7 @@
    
 
     
-  <div align="center"><a href="http://220.141.123.251"><img src="https://github.com/gofun72/telove/blob/master/img/20200125tl.jpg" width="650"></a></div>
+  <div align="center"><a href="http://36.228.14.30"><img src="https://github.com/gofun72/telove/blob/master/img/20200129tl.jpg" width="750"></a></div>
   <br>
   
   <hr>
@@ -133,7 +133,7 @@
 <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_android_3.2.zip?raw=true">3.2版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg770p.exe?raw=true">7.70p版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg771pb1.exe?raw=true">7.71p版</a></a></td>
 	
 </tr>
 
@@ -165,7 +165,7 @@
    <br>
    <hr>
    <div align="center"><h1>◆◆ 失落的宝藏——您在中国大陆看不到的演出 ◆◆</h1>
-   <div align="center"><a href="http://220.141.123.251/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019-sy-2020.jpg"    width="700"></a></div>
+   <div align="center"><a href="http://36.228.14.30/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019-sy-2020.jpg"    width="700"></a></div>
    
    
 由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时， 在元宵节期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</P>
