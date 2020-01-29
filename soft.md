@@ -24,7 +24,7 @@
 <table  width="800">
 
 <tr>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg770p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg771pb1.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
 	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="240" alt="自由门安卓"></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg770p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="240" alt="自由门桌机"></a> </td>
 
@@ -63,7 +63,7 @@
 <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_android_3.2.zip?raw=true">3.2版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg770p.exe?raw=true">7.70p版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg771pb1.exe?raw=true">7.71p版</a></a></td>
 	
 </tr>
 
