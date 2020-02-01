@@ -53,13 +53,10 @@
 <td>
 <h4>智者先贤们都预言了今天的事，当有行大善者劝您退出来时，一定要退出来。“遭了此劫不上算”，切莫错过神佛对我们的慈悲！在大地震、非典、大洪水、病毒传染等各种天灾人祸面前，许多善良的大陆同胞因做了三退; 并诚心默念“法轮大法好、真善忍好”而得平安福报。 朋友再次提醒您 请勿错過机會 </h4></td> </tr>
   </table> 
+  </p> 
+
+   <div align="center"><a href="https://github.com/gofanben/gm/blob/master/zijiu.md#e"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-01sos.jpg" width="750"></a></div>
   
-  
- <div> align="center"><a href="https://github.com/gofanben/gm/blob/master/zijiu.md#e"><img sre=" https://github.com/gofun72/telove/blob/master/img/2020-02-01sos.jpg" width=550"></a></div>
-  
-  
-  <hr>
-   <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md#a25-1"><img src="https://github.com/gofun72/telove/blob/master/img/2019-09compassionp.jpg" width=550"></a></div>
   
   <br>
     <hr>
