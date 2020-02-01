@@ -180,4 +180,8 @@
  
    <div align="center"><a href="https://git.io/epubc"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0903return.jpg" width="800"></a></div>
  
+ 
+ <hr>
+   <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/sowwop.md#a25-1"><img src="https://github.com/gofun72/telove/blob/master/img/2019-09compassionp.jpg" width=550"></a></div>
+  
 
