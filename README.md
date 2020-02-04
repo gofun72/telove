@@ -80,12 +80,12 @@
 明慧编辑部
 二零一九年五月二十日</h4>
 
- 	
+ <br/>	
 <hr>
  
    
 		 
- <div align="center"><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy8.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-04syp.jpg" width="800"></a></div><br/>
+ <div align="center"><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy8.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-04syp.jpg" width="730"></a></div><br/>
  <div align="center"><h3><a href="http://git.io/she"> 请大家告诉大家，错过可能得等一年！((点击详看播出时间))</a></h3></P><br/>
 
   <br/>
