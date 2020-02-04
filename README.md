@@ -40,7 +40,7 @@
 	
 <tr>
  <td>
- <a href="https://git.io/pamja"> <h3>如何 “ 三退保命? ”</a>,<b>请复制上面→免翻视频 IP 或</b> <a href="http://36.228.14.30/td/">→点 【三退大潮】--为什么要退党？</a> 可留言三退或用翻墙软件自己办理三退</h3></td>
+ <a href="https://git.io/pamja"> <h3>如何 “ 三退保命? ”</a>,<b>请复制上面→免翻视频 IP 或</b> <a href="http://220.141.130.31/td/">→点 【三退大潮】--为什么要退党？</a> 可留言三退或用翻墙软件自己办理三退</h3></td>
 </tr> 
 
 <tr>
@@ -61,7 +61,7 @@
   <br>
     <hr>
    
-   <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/forfor.md"><img src="https://github.com/gofun72/telove/blob/master/img/Disappear.jpg" width="700"></a></div>
+   <div align="center"><a href="https://github.com/awwkk/usdom/blob/master/forfor.md"><img src="https://github.com/gofun72/telove/blob/master/img/Disappear.jpg" width="750"></a></div>
 	 <div align="center"><a href="https://git.io/zfzfzf"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0521dontp.jpg" width="600"></a></div>
     <hr>	   
 	 <div align="left"><a href="https://git.io/waaa"><img src="https://github.com/gofun72/telove/blob/master/img/201905_21fdg.jpg" width="650"></a></div>	
@@ -85,7 +85,7 @@
  
    
 		 
- <div align="center"><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy8.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-04syp.jpg" width="730"></a></div><br/>
+ <div align="center"><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy8.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-04syp.jpg" width="750"></a></div><br/>
  <div align="center"><h3><a href="http://git.io/she"> 请大家告诉大家，错过可能得等一年！((点击详看播出时间))</a></h3></P><br/>
 
   <br/>
