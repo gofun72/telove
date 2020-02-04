@@ -106,7 +106,7 @@
 </table>
 <table>
 <tr>
-<td width="880"><h3 align="center"><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV_n.exe?raw=true">◆请大陆朋友必需透过使用"爱博电视收看新唐人中国频道</a>"和<a href="http://jo104.xyrs.bid/sy/#parameter">韩星五A号"请选用中国频道400◆  </h3</a></td>
+<td width="880"><h3 align="center"><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV_n.exe?raw=true">◆请大陆朋友必需透过使用"爱博电视收看新唐人中国频道</a>" 和 <a href="http://jo104.xyrs.bid/sy/#parameter">"韩星五A号"请选用中国频道400◆  </h3</a></td>
 	
 </tr>
  </table>
