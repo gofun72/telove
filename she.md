@@ -1,6 +1,6 @@
 
 
-<div align="center"><a href="http://j20.xyrs.bid/sy/"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width=860></a><br></div><br>
+<div align="center"><a href="http://tel0105.xyrs.bid/sy/"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width=860></a><br></div><br>
 	
 
 <a href="http://love107.xyrs.bid/sy/"> <h2>【预告】元宵节新唐人独家播出“神韵晚会”及“交响乐音乐会”</h2></div></a>
