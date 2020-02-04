@@ -83,12 +83,9 @@
  	
 <hr>
  
-   <h2 class="p1"><a href="https://git.io/bb99bbss">◆◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者<点击看详情></a></h2>
-    <hr>
-         <div align="center">
-	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
+   
 		 
- <div align="center"><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy8.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/shenyuan2020.jpg" width="600"></a></div><br/>
+ <div align="center"><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy8.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-04syp.jpg" width="600"></a></div><br/>
  <div align="center"><h3><a href="http://git.io/she"> 请大家告诉大家，错过可能得等一年！((点击详看播出时间))</a></h3></P><br/>
 
   <br/>
@@ -177,6 +174,11 @@
 
 <p>
 <br><hr>
+
+<h2 class="p1"><a href="https://git.io/bb99bbss">◆◆ 朗朗乾坤，善恶已明！人心在善恶取舍中，没有旁观者<点击看详情></a></h2>
+    <hr>
+         <div align="center">
+	<div align="center"><a href="https://git.io/ykykyk"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0424p.jpg" width="880"></a></div> <hr><br>	
  
    <div align="center"><a href="https://git.io/epubc"><img src="https://github.com/gofun72/telove/blob/master/img/2019-0903return.jpg" width="800"></a></div>
  
