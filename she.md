@@ -15,7 +15,7 @@
 
 <div align="center"><h2>《神韵晚会播出时间如下（大陆频道播出时间）》<p></h2></div>
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020-0204Lantern%20Festival.jpg" width=660></a><br></div><br><hr>
-<div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/she  (随时掌握免翻即时视频: http://220.141.130.31 ) </a><br></div><br><hr>
+<div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/she  (随时掌握免翻即时视频: http://36.227.96.182 ) </a><br></div><br><hr>
 
 
 <div align="center"><h2><a href="http://j20.xyrs.bid/mp4/news668/2019/01/sy8.mp4">请大家告诉大家，错过可能得等一年！</a></h2></P>
@@ -53,7 +53,7 @@
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/1218.gif"width=900></div>	
 　
  <br><br>
-  <div align="center"><a href="http://220.141.130.31/mp4/news668/2016/02/syMusic480.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2019symusic.jpg"></a></div>
+  <div align="center"><a href="http://36.227.96.182/mp4/news668/2016/02/syMusic480.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2019symusic.jpg"></a></div>
   
   
 <h3>邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</h3>
