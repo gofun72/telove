@@ -4,7 +4,7 @@
 	
 
 <a href="http://love107.xyrs.bid/sy/"> <h2>【预告】元宵节新唐人独家播出“神韵晚会”及“交响乐音乐会”</h2></a>
-<h3>【新唐人北京时间2020年02月03日讯】2月8日（周六）是元宵节，新唐人电视台将独家播出“新唐人全球华人新年晚会——神韵晚会”，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。同时，新唐人还将播出“神韵艺术团交响乐团2018年音乐会”。</p>
+<h3>【新唐人北京时间2020年02月03日讯】2月7日（周五）是元宵节，新唐人电视台将独家播出“新唐人全球华人新年晚会——神韵晚会”，由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出。同时，新唐人还将播出“神韵艺术团交响乐团2018年音乐会”。</p>
 
 神韵晚会将在大陆、纽约、美西、欧洲等全球五个频道播放，对海外播出的是“神韵艺术团2019年演出”，对中国大陆播出的是“神韵艺术团2020年演出”。网站不播出，只限于电视收看。Roku平台不播出2020全球华人新年晚会，将播出2017和2018年神韵交响乐团音乐会</p>
 
@@ -14,7 +14,7 @@
 亲爱的观众朋友们，让优质的中国古典舞及音乐盛宴陪您与家人共度元宵，敬请阖家观赏！
 
 <div align="center"><h2>《神韵晚会播出时间如下（大陆频道播出时间）》<p></h2></div>
-<div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020-207Lantern%20Festival.jpg" width=640></a><br></div><br><hr>
+<div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020-0204Lantern%20Festival.jpg" width=640></a><br></div><br><hr>
 <div align="center"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2019-12-20_111019.jpg" width=70>请收藏本网址http://git.io/she  (随时掌握免翻即时视频: http://36.227.96.182 ) </a><br></div><br><hr>
 
 
