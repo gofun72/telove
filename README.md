@@ -77,6 +77,11 @@
   <table>
 <tr>
 <td>
+	<div align="center"><a href="https://github.com/gofun72/telove/blob/master/download/feiyanzibao.mp4?raw=true"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020-02-08_233719.jpg" width=700></a><br></div>
+  <hr>
+	
+	
+	
 	<div align="center"><h3>疫情中请牢记法轮大法好</h3></div>
 【明慧网二零二零年一月二十五日】目前，武汉肺炎疫情已在中国失控蔓延。最新的已有830宗人被感染，死亡25例。这还不是事实的全部，中共从疫情出现以来一直隐瞒真相，甚至瞒报死亡数字。
 导致“不明肺炎”的病原体是一种新型冠状病毒，目前还没有针对性的药物和疫苗。我们比较熟悉的二零零三年的非典（SARS）、中东呼吸综合症（MERS）都是由冠状病毒引起的。因为中国官方报道的不透明、“舆论维稳”的需要，许多人都不知道这次疫情是否和当年SARS一样具有高致死率，而参与二零零三年非典等多次疫情应对的专家指出，“此次武汉肺炎疫情比二零零三年非典严重十倍”。
