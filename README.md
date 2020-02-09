@@ -74,7 +74,7 @@
 	
 </table></tr></td><hr>
 
-<div align="center"><a href="https://github.com/gofun72/telove/blob/master/download/%E5%B9%B3%E5%AE%89%E5%BA%A6%E8%BF%87%E5%8A%AB%E9%9A%BE%E7%9A%84%E6%8A%A4%E8%BA%AB%E7%AC%A61.mp3?raw=true"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020-0208think.jpg" width=700></a><br></div>
+<div align="center"><a href="https://github.com/gofun72/telove/blob/master/download/feiyanzibao.mp4?raw=true"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020-0208think.jpg" width=700></a><br></div>
   <hr>
   <table>
 <tr>
