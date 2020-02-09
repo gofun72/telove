@@ -2,7 +2,7 @@
    
 
     
-  <div align="center"><a href="http://36.227.96.182"><img src="https://github.com/gofun72/telove/blob/master/img/20200205tl.jpg" width="750"></a></div>
+  <div align="center"><a href="http://220.141.128.156"><img src="https://github.com/gofun72/telove/blob/master/img/20200209tl.jpg" width="750"></a></div>
   </p>
   
   
@@ -159,7 +159,7 @@
  <div align="center"><h2><a href="http://git.io/she"> 请大家告诉大家，错过可能得等一年！((点击详看播出时间))</a></h2></P><br/>
   <br/>
 
-<div align="center"><h3><a href="http://220.141.130.31/sy/">收视方法</h3></a></div> 
+<div align="center"><h3><a href="http://220.141.128.156/sy/">收视方法</h3></a></div> 
 <table>
 	
 <tr>
@@ -232,7 +232,7 @@
    <br>
    <hr>
    <div align="center"><h1>◆◆ 失落的宝藏——您在中国大陆看不到的演出 ◆◆</h1>
-   <div align="center"><a href="http://220.141.130.31/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019-sy-2020.jpg"    width="700"></a></div>
+   <div align="center"><a href="http://220.141.128.156/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019-sy-2020.jpg"    width="700"></a></div>
    
    
 由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时， 在元宵节期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</P>
