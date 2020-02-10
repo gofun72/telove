@@ -3,9 +3,9 @@
 <div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20200210tl.jpg" width="750">	
 
 <hr>
- <div align="right"><a href="https://git.io/mbbasn" style="font-size:50px;color:blue;">前往看更多真相</a></div>
+ <div align="right"><h2><a href="https://git.io/mbbasn" style="font-size:50px;color:blue;">前往看更多真相</a></h2></div>
 
-<hr>
+</p>
 
 <div align="center"><h1>手机上好看的电子书（ePub版）</h1></div>
  
