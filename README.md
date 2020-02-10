@@ -6,7 +6,6 @@
   </p>
   
   
-  
  <hr>
 
 <table>
@@ -151,34 +150,7 @@
 二零一九年五月二十日</h4>
 
  <br/>	
-<hr>
- 
-   
-		 
- <div align="center"><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy8.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-04syp.jpg" width="750"></a></div><br/>
- <div align="center"><h2><a href="http://git.io/she"> 请大家告诉大家，错过可能得等一年！((点击详看播出时间))</a></h2></P><br/>
-  <br/>
 
-<div align="center"><h3><a href="http://220.141.128.156/sy/">收视方法</h3></a></div> 
-<table>
-	
-<tr>
-<td width="450">1、大陆观众可通过韩星五A号的新唐人中国频道收看 (播出参数)。</td>
-<td width="440">3、大陆观众还可通过翻墙软件收看新唐人中国频道。 </td>
-</tr>
-	
-<tr>
-	<td width="450">2、通过iNTDTV和机顶盒收看新唐人中国频道</td>
-	<td width="440">4、使用爱博电视之新唐人中国频道收看。</td>
-	
-</tr>
-</table>
-<table>
-<tr>
-<td width="880"><h3 align="center"><a href="https://github.com/gofun72/telove/blob/master/soft/Green_iPPOTV_n.exe?raw=true">◆请大陆朋友必需透过使用"爱博电视收看新唐人中国频道</a>" 和 <a href="http://jo104.xyrs.bid/sy/#parameter">"韩星五A号"请选用中国频道400◆  </h3</a></td>
-	
-</tr>
- </table>
 	 
 <hr>
 <h1> 突破封锁看世界 翻墙请先下软件</h1>
@@ -232,7 +204,7 @@
    <br>
    <hr>
    <div align="center"><h1>◆◆ 失落的宝藏——您在中国大陆看不到的演出 ◆◆</h1>
-   <div align="center"><a href="http://220.141.128.156/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019-sy-2020.jpg"    width="700"></a></div>
+   <div align="center"><a href="http://36.228.14.248/sy/"><img src="https://github.com/gofun72/telove/blob/master/img/2019-sy-2020.jpg"    width="700"></a></div>
    
    
 由神韵艺术团、神韵交响乐团、飞天艺术大学、飞天艺术学院联合演出；同时， 在元宵节期间，新唐人还将独家播出《2017神韵交响乐团音乐会》，邀请您踏上五千年的音乐之旅。神韵原创的作品，以洪大的交响乐再现中华音乐传统，重现失传的美声唱法，由中国器乐领衔，搭配西方经典曲目，带给您前所未有的启迪。</P>
@@ -242,6 +214,13 @@
 海外观众如要观看最新的〝神韵晚会〃，请到当地剧院买票观看，演出行程可以查询：http://www.shenyun.com  
 <br/>
 
+<hr>
+  
+		 
+ <div align="center"><a href="http://j120.xyrs.bid/mp4/news668/2020/01/sy8.mp4"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-04syp.jpg" width="750"></a></div><br/>
+
+</tr>
+ </table>
 <p>
 <br><hr>
 
