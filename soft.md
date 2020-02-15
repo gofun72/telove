@@ -24,6 +24,9 @@
 <table  width="800">
 
 <tr>
+<td><a href="https://github.com/gofun72/telove/blob/master/soft/SzzdOgate.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-15Szzd.jpg" align="middle" width="260" alt="神洲明见网"></td></a>
+<td><a href="https://github.com/gofun72/telove/blob/master/soft/PnyETyGmm.1.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/20200215ogatea.jpg" align="middle" width="260" alt="網門安卓"></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/oGate.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/2020-0215ogatew.jpg" align="middle" width="260" alt="網門電腦"></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg772p.zip?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
 	<td><a href="https://git.io/vN7BW"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="240" alt="自由门安卓"></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg773p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="240" alt="自由门桌机"></a> </td>
