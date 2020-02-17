@@ -171,14 +171,14 @@
 
 <tr>
 	<td>快速免翻-网门</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/PnyETyGmm.1.apk?raw=true">明见网(Szzd)</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/oGate.exe?raw=true">神洲正道</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/PnyETyGmm.1.apk?raw=true">ogatea</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/oGate.exe?raw=true">ogatew</a></a></td>
 	
 </tr>
 <tr>
 	<td>快速免翻-神洲明见网</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/SzzdOgate.apk?raw=true">ogatea</a></a></td>
-	<td><a href="http://www.shenzhouzhengdao.org/"></a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/SzzdOgate.apk?raw=true">明见网（Szzd)</a></a></td>
+	<td><a href="http://www.shenzhouzhengdao.org/">神洲正道</a></a></td>
 	
 </tr>
 
