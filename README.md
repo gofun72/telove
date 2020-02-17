@@ -215,6 +215,7 @@
 
 </table>
 
+ <div align="center"><a href="https://git.io/gfw"><img src="https://github.com/gofun72/telove/blob/master/img/2020-02-17why.jpg"    width="600"></a></div>
   
    
    <br>
