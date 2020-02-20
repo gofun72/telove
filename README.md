@@ -188,7 +188,7 @@
 <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_android_3.2.zip?raw=true">3.2版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg773p.exe?raw=true">7.73p版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg774p.exe?raw=true">7.74p版</a></a></td>
 	
 </tr>
 
