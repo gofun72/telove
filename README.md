@@ -2,7 +2,7 @@
    
 
     
-  <div align="center"><a href="http://220.141.128.50"><img src="https://github.com/gofun72/telove/blob/master/img/2020dftl.jpg" width="750"></a></div>
+  <div align="center"><a href="http://118.161.137.19"><img src="https://github.com/gofun72/telove/blob/master/img/20200222tl.jpg" width="750"></a></div>
   </p>
   
   
