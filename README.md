@@ -2,7 +2,7 @@
    
 
     
-  <div align="center"><a href="http://36.228.47.69"><img src="https://github.com/gofun72/telove/blob/master/img/20200308tl.jpg" width="750"></a></div>
+  <div align="center"><a href="http://220.141.118.207"><img src="https://github.com/gofun72/telove/blob/master/img/20200311tl.jpg" width="750"></a></div>
   </p>
   
   
@@ -11,7 +11,11 @@
 <table>
 <tr>
 <td>
-	<div align="center"><h1>以下真实情况朋友请您静心看完~ </h1></div>
+	<div align="center"><h1>以下真实情况朋友请您静心看完~ </h1></div><hr>
+	
+	
+	
+	
 <div align="center"><h3>武汉警察：谢谢法轮功还想着我们</h3></div>
 	【明慧网二零二零年二月一日】（明慧记者章韵报道）被称为世界史上第二次大鼠疫的是绵延几百年的中世纪欧洲黑死病。那场鼠疫造成几乎七千五百万人死亡，使整个欧洲坠入了世界末日。人们在末日心态中各有选择，有的及时行乐，有的祷告上帝，有的避世远离，有的顽强抗争并帮助他人。
 
