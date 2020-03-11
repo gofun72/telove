@@ -2,8 +2,8 @@
 <div align="center"><a href="https://github.com/gofun72/telove/blob/master/download/feiyanzibao.mp4?raw=true"><IMG SRC="https://github.com/gofun72/telove/blob/master/img/2020-02-08_233719.jpg" width=700></a><br></div>
   <hr>
   
-  <h1>【特稿】武汉病毒针对共产党而来</h1><p>
-  
+  <h1>【特稿】武汉病毒针对共产党而来</h1>
+  </br>
   <h3>【大纪元2020年03月10日讯】今年以来，武汉肺炎（又名新冠肺炎）因为中共的隐瞒而迅速向全球蔓延，演变为令世界惊恐的瘟疫。瘟疫虽无情，但并非无迹可循，尤其是武汉肺炎在中国之外的扩散趋势，鲜明地点出了病毒的风向和目标：它是冲着共产党而来的。
   这场气势汹汹的瘟疫爆发一个多月，在全球呈上升之势，危机当前，各国政府和民众不得不反思：病毒到底为何而来？它和共产党有什么关系？个人和国家又该如何趋吉避凶？
 
