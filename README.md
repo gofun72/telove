@@ -11,9 +11,8 @@
 <tr>
 <td>
 	<div align="center"><h1>以下真实情况朋友请您静心看完~ </h1></div><hr>
-	
 			
-<div align="center"><a href="http://220.141.118.207"><img src="https://github.com/gofun72/telove/blob/master/img/2020-03-11%E7%89%B9.jpg" width="750"></a></div>
+<div align="center"><a href="http://220.141.118.207"><img src="https://github.com/gofun72/telove/blob/master/img/2020-03-11%E7%89%B9.jpg" width="600"></a></div>
   </p>
 		
 	
