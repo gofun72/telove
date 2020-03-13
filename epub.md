@@ -1,6 +1,8 @@
 
 
-<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20200311tl.jpg" width="750">	
+<div align="center"><img src="https://github.com/gofun72/telove/blob/master/img/20200313df.jpg" width="750">	
+	<div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p>http://61.228.176.68/310</h1></a></b></div>
+</br>
 
 <hr>
  <div align="right"><h2><a href="https://git.io/mbbasn" style="font-size:50px;color:blue;">前往看更多真相</a></h2></div>
