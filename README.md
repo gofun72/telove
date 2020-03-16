@@ -193,8 +193,8 @@
 
 <tr>
 	<td>自由门</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/zi_you_men_android_3.2.zip?raw=true">3.2版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg774p.exe?raw=true">7.74p版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma40.apk?raw=true">4.0版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg777p.exe?raw=true">7.77p版</a></a></td>
 	
 </tr>
 
