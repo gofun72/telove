@@ -2,8 +2,8 @@
    
 
     
-  <div align="center"><a href="http://61.228.182.223/310"><img src="https://github.com/gofun72/telove/blob/master/img/20200313df.jpg" width="750"></a></div>
-  <div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p>http://61.228.182.223/310</h1></a></b></div>
+  <div align="center"><a href="http://61.228.177.176/310"><img src="https://github.com/gofun72/telove/blob/master/img/20200313df.jpg" width="750"></a></div>
+  <div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p>http://61.228.177.176/310</h1></a></b></div>
 </br>
   </p>
   
@@ -194,13 +194,13 @@
 <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma40.apk?raw=true">4.0版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg777p.exe?raw=true">7.77p版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg778p.exe?raw=true">7.78p版</a></a></td>
 	
 </tr>
 
 <tr>
 	<td>无界</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true">4.6</a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.8.apk?raw=true">4.8</a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u19.02.exe?raw=true">19.02</a></a></td>
 	
 </tr>
