@@ -30,17 +30,17 @@
 <td><a href="https://github.com/gofun72/telove/blob/master/soft/oGate.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/2020-0215ogatew.jpg" align="middle" width="260" alt="網門電腦"></td></a>
 </tr>
 <tr>
-<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg777p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
+<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg778p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
 
 <td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma40.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="240" alt="自由门安卓"></a></td>
-<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg777p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="240" alt="自由门桌机"></a> </td>
+<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg778p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="240" alt="自由门桌机"></a> </td>
 
 	
 </tr>
 
 <tr>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u19.02.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wul-1.jpg" align="middle" width="240" alt="无界瀏"></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wa.jpg" align="middle" width="240" alt="无界一点通"></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.8.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wa.jpg" align="middle" width="240" alt="无界一点通"></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u113(English).apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/wj.jpg" align="middle" width="240" alt="无界一点通"></a></td>
 </tr>
 <tr>
@@ -78,13 +78,13 @@
 <tr>
 	<td>自由门</td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma40.apk?raw=true">4.0版</a></a></td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg777p.exe?raw=true">7.77版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg778p.exe?raw=true">7.78版</a></a></td>
 	
 </tr>
 
 <tr>
 	<td>无界</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.6.apk?raw=true">4.6</a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/um4.8.apk?raw=true">4.8</a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/u19.02.exe?raw=true">19.02</a></a></td>
 	
 </tr>
