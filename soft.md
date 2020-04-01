@@ -32,7 +32,7 @@
 <tr>
 <td><a href="https://github.com/gofun72/telove/blob/master/soft/fg778p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-3-1.jpg" align="middle" width="240" alt="自由门free gate"></td>
 
-<td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma40.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="240" alt="自由门安卓"></a></td>
+<td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma41.apk?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-a1.jpg" align="middle" width="240" alt="自由门安卓"></a></td>
 <td><a href="https://github.com/gofun72/telove/blob/master/soft/fg778p.exe?raw=true"><img src="https://github.com/gofun72/telove/blob/master/img/soft/free-j-1.jpg" align="middle" width="240" alt="自由门桌机"></a> </td>
 
 	
@@ -77,7 +77,7 @@
 
 <tr>
 	<td>自由门</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma40.apk?raw=true">4.0版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma41.apk?raw=true">4.1版</a></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg778p.exe?raw=true">7.78版</a></a></td>
 	
 </tr>
