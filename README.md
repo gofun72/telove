@@ -193,7 +193,7 @@
 
 <tr>
 	<td>自由门</td>
-	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma41.apk?raw=true">4.1版</a></a></td>
+	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fgma42.apk?raw=true">4.2版</a></a></td>
 	<td><a href="https://github.com/gofun72/telove/blob/master/soft/fg778p.exe?raw=true">7.78p版</a></a></td>
 	
 </tr>
