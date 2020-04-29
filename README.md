@@ -3,7 +3,7 @@
 
     
   <div align="center"><a href="https://bit.ly/2VIs51L "><img src="https://github.com/gofun72/telove/blob/master/img/20200313df.jpg" width="750"></a></div>
-  <div align="center"><h1><b>当天有效即时新闻与视频请赶紧点阅:<p>https://bit.ly/2VIs51L </h1></a></b></div>
+  <div align="center"><h1><b> 看精采点击视频==>  https://bit.ly/2VIs51L </h1></a></b></div>
 </br>
   </p>
   
