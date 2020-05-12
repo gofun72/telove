@@ -16,6 +16,10 @@
 	<div align="center"><h1>以下真实情况朋友请您静心看完~ </h1></div>
 			
 <div align="center"><a href="https://git.io/Nta"><img src="https://github.com/gofun72/telove/blob/master/img/2020-03-11%E7%89%B9.jpg" width="600"></a></div>
+
+<div align="center"><a href="bit.ly/3cdMTVO"><img src="https://github.com/gofun72/telove/blob/master/img/2020-05-12_161140.jpg" width="600"></a></div>
+
+
   </p>
 		
 <hr>	
