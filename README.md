@@ -7,6 +7,7 @@
     <h2>网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了。</h2>
     
   <div align="center"><a href="https://bit.ly/2A4uPQb"><img src="https://github.com/gofun72/telove/blob/master/img/2020-06-12232237.jpg" width="600"></a></div><p>
+	<h2> 本片根据#真实事件改编，#揭示惊天大案 ，#还原历史真相。</h2>
     
     
 </br>
