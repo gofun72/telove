@@ -3,7 +3,7 @@
 
 
 <div class="center"><img src="https://github.com/gofun72/telove/blob/master/img/20200313df.jpg"width="700"></div>
-<div align="center"><h1><b>点击视频:<p>https://bit.ly/2VIs51L</h1></a></b></div>
+<div align="center"><h1><b>点击视频:<p>https://bit.ly/2A4uPQb</h1></a></b></div>
    <h2>**网页若出现〝你的连现不是私人连线″，点→进阶，再点→继续前往...，就可以看到视频了** </h2>
 <br/>
 
